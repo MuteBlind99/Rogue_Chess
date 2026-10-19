@@ -35,6 +35,7 @@ namespace Chess.Core
         {
             if (square == null || square.Length != 2)
                 throw new ArgumentException($"Case invalide : '{square}'", nameof(square));
+            string[] parts = square.Split(',');
 
             return new Coord(square[0] - 'a', square[1] - '1');
         }
