@@ -1,0 +1,17 @@
+{
+    "name": "Chess.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:395a00f6c0a76334d923832287c92f4a",
+        "GUID:12cf746718945494a8b9fb40ece91f35"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

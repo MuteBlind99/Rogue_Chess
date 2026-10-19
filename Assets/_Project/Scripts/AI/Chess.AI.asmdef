@@ -1,0 +1,16 @@
+{
+    "name": "Chess.AI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:395a00f6c0a76334d923832287c92f4a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

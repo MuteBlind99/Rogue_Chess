@@ -1,0 +1,17 @@
+{
+    "name": "Chess.Run",
+    "rootNamespace": "",
+    "references": [
+        "GUID:395a00f6c0a76334d923832287c92f4a",
+        "GUID:93c3c1302f57d1e4aa4844cf21819cfa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
