@@ -48,6 +48,45 @@ namespace Chess.Core.Tests
             Assert.Contains(Move.Parse("d4-h4"),moves);
             Assert.Contains(Move.Parse("d4-a4"),moves);
         }
+        [Test]
+        public void Rook_StopsAfterCapturingEnemy()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("a1"), new Piece(PieceType.Rook,Side.White));
+            board.Set(Coord.Parse("a4"), new Piece(PieceType.Pawn,Side.Black));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("a1"));
+            Assert.AreEqual(10, moves.Count);
+            Assert.Contains(Move.Parse("a1-a4"),moves);
+            CollectionAssert.DoesNotContain(moves,Move.Parse("a1-a5"));
+        }
+        [Test]
+        public void Bishop_OnD4_Has13Moves()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("d4"), new Piece(PieceType.Bishop,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("d4"));
+            Assert.AreEqual(13, moves.Count);
+            Assert.Contains(Move.Parse("d4-g1"),moves);
+            Assert.Contains(Move.Parse("d4-a7"),moves);
+            Assert.Contains(Move.Parse("d4-a1"),moves);
+            Assert.Contains(Move.Parse("d4-h8"),moves);
+        }
+        [Test]
+        public void Queen_OnD4_Has27Moves()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("d4"), new Piece(PieceType.Queen,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("d4"));
+            Assert.AreEqual(27, moves.Count);
+            Assert.Contains(Move.Parse("d4-g1"),moves);
+            Assert.Contains(Move.Parse("d4-a7"),moves);
+            Assert.Contains(Move.Parse("d4-a1"),moves);
+            Assert.Contains(Move.Parse("d4-h8"),moves);
+            Assert.Contains(Move.Parse("d4-d1"),moves);
+            Assert.Contains(Move.Parse("d4-d8"),moves);
+            Assert.Contains(Move.Parse("d4-h4"),moves);
+            Assert.Contains(Move.Parse("d4-a4"),moves);
+        }
     }
 }
 

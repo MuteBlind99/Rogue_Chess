@@ -20,6 +20,15 @@ namespace Chess.Core
         {
             new Coord(0, 1), new Coord(0, -1), new Coord(1, 0), new Coord(-1, 0)
         };
+        private static readonly Coord[] BishopDirections =
+        {
+            new Coord(1, 1), new Coord(1, -1), new Coord(-1, 1), new Coord(-1, -1)
+        };
+        private static readonly Coord[] QueenDirections =
+        {
+            new Coord(0, 1), new Coord(0, -1), new Coord(1, 0), new Coord(-1, 0),
+            new Coord(1, 1), new Coord(1, -1), new Coord(-1, 1), new Coord(-1, -1)
+        };
 
         public static List<Move> GetMoves(Board board, Coord from)
         {
@@ -36,8 +45,13 @@ namespace Chess.Core
                 AddJumpMoves(board, from, piece, KingOffsets, moves);
             else if (piece.Type == PieceType.Rook)
                 AddSlideMoves(board, from, piece, RookDirections, moves);
-
-
+            else if (piece.Type == PieceType.Bishop)
+                AddSlideMoves(board, from, piece, BishopDirections, moves);
+            else if (piece.Type == PieceType.Queen)
+            {
+                AddSlideMoves(board, from, piece, BishopDirections, moves);
+                AddSlideMoves(board, from, piece, RookDirections, moves);
+            }
             return moves;
         }
 
