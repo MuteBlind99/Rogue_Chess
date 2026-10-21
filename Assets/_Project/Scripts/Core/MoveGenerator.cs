@@ -20,11 +20,13 @@ namespace Chess.Core
         {
             new Coord(0, 1), new Coord(0, -1), new Coord(1, 0), new Coord(-1, 0)
         };
+
         private static readonly Coord[] BishopDirections =
         {
             new Coord(1, 1), new Coord(1, -1), new Coord(-1, 1), new Coord(-1, -1)
         };
-        private static readonly Coord[] QueenDirections =
+
+        private static readonly Coord[] PawnDirections =
         {
             new Coord(0, 1), new Coord(0, -1), new Coord(1, 0), new Coord(-1, 0),
             new Coord(1, 1), new Coord(1, -1), new Coord(-1, 1), new Coord(-1, -1)
@@ -52,6 +54,9 @@ namespace Chess.Core
                 AddSlideMoves(board, from, piece, BishopDirections, moves);
                 AddSlideMoves(board, from, piece, RookDirections, moves);
             }
+            else if (piece.Type == PieceType.Pawn)
+                AddPawnMoves(board, from, piece, moves);
+
             return moves;
         }
 
@@ -109,7 +114,7 @@ namespace Chess.Core
                 while (board.Contains(to))
                 {
                     Piece target = board.Get(to);
-                    
+
                     if (target == null)
                     {
                         moves.Add(new Move(from, to));
@@ -125,6 +130,40 @@ namespace Chess.Core
                         break;
                     }
                 }
+            }
+        }
+
+        private static void AddPawnMoves(Board board, Coord from, Piece piece, List<Move> moves)
+        {
+            int forward = piece.Side == Side.White ? 1 : -1;
+
+            Coord to = from + new Coord(0, forward);
+
+            if (board.Contains(to))
+            {
+                Piece target = board.Get(to);
+                if (target == null)
+                {
+                    moves.Add(new Move(from, to));
+                    int startRank = piece.Side == Side.White ? 1 : 6;
+                    Coord doubleTo = from + new Coord(0, 2 * forward);
+                    
+                    if(from.Rank == startRank && board.Contains(doubleTo) && board.Get(doubleTo) == null)
+                        moves.Add(new Move(from, doubleTo));
+                }
+            }
+            Coord[] captureOffsets = {new Coord(-1,forward), new Coord(1,forward)};
+            foreach (Coord offset in captureOffsets)
+            {
+                Coord targetCoord = from + offset;
+                
+                if (!board.Contains(targetCoord))
+                    continue;
+                
+                Piece target = board.Get(targetCoord);
+
+                if (target != null && target.Side != piece.Side)
+                    moves.Add(new Move(from, targetCoord));
             }
         }
     }

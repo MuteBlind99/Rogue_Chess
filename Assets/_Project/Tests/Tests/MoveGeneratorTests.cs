@@ -87,6 +87,59 @@ namespace Chess.Core.Tests
             Assert.Contains(Move.Parse("d4-h4"),moves);
             Assert.Contains(Move.Parse("d4-a4"),moves);
         }
+        [Test]
+        public void Pawn_OnE3_Has1Move()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("e3"), new Piece(PieceType.Pawn,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("e3"));
+            Assert.AreEqual(1, moves.Count);
+            Assert.Contains(Move.Parse("e3-e4"),moves);
+            
+        }
+        [Test]
+        public void Pawn_OnE2_Has2Moves()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("e2"), new Piece(PieceType.Pawn,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("e2"));
+            Assert.AreEqual(2, moves.Count);
+            Assert.Contains(Move.Parse("e2-e3"),moves);
+            Assert.Contains(Move.Parse("e2-e4"),moves);
+        }
+        [Test]
+        public void PawnBlack_OnE7_Has2Moves()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("e7"), new Piece(PieceType.Pawn,Side.Black));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("e7"));
+            Assert.AreEqual(2, moves.Count);
+            Assert.Contains(Move.Parse("e7-e6"),moves);
+            Assert.Contains(Move.Parse("e7-e5"),moves);
+        }
+        [Test]
+        public void PawnBlack_CannotCaptureForward()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("e5"), new Piece(PieceType.Pawn,Side.Black));
+            board.Set(Coord.Parse("e4"), new Piece(PieceType.Pawn,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("e5"));
+            Assert.AreEqual(0, moves.Count);
+            CollectionAssert.DoesNotContain(moves,Move.Parse("e5-e4"));
+        }
+        [Test]
+        public void PawnWhite_CapturesDiagonally()
+        {
+            Board board = new Board();
+            board.Set(Coord.Parse("d5"), new Piece(PieceType.Pawn,Side.Black));
+            board.Set(Coord.Parse("f5"), new Piece(PieceType.Pawn,Side.Black));
+            board.Set(Coord.Parse("e4"), new Piece(PieceType.Pawn,Side.White));
+            var moves = MoveGenerator.GetMoves(board, Coord.Parse("e4"));
+            Assert.AreEqual(3, moves.Count);
+            Assert.Contains(Move.Parse("e4-e5"),moves);
+            Assert.Contains(Move.Parse("e4-d5"),moves);
+            Assert.Contains(Move.Parse("e4-f5"),moves);
+        }
     }
 }
 
