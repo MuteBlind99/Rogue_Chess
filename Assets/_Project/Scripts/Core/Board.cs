@@ -79,5 +79,26 @@ namespace Chess.Core
             if (!Contains(c))
                 throw new ArgumentOutOfRangeException(nameof(c), $"La case {c} est hors du plateau.");
         }
+
+        public MoveRecord MakeMove(Move move)
+        {
+            Piece moving = Get(move.From);
+            
+            if (moving == null)
+                throw new InvalidOperationException($"Aucune pièce en {move.From} pour jouer {move}.");
+            Piece captured = Get(move.To);
+            
+            Set(move.To, moving);
+            Set(move.From, null);
+            
+            return new MoveRecord(move, moving, captured);
+        }
+
+        public void UndoMove(MoveRecord record)
+        {
+           Set(record.Move.From, record.Moved);
+           
+           Set(record.Move.To, record.Captured);
+        }
     }
 }
