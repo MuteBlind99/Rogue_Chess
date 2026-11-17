@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 5e739b0ec56cbda42a5510ae1fbb1339
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6755202244319305802
+    second: king_light_0
+  - first:
+      213: 5600109987329430196
+    second: king_light_1
+  - first:
+      213: 5428093762002215931
+    second: king_light_2
+  - first:
+      213: -3571192290073503924
+    second: king_light_3
+  - first:
+      213: 5706136797427324646
+    second: king_light_4
+  - first:
+      213: -4987617323602656041
+    second: king_light_5
+  - first:
+      213: -6291710574637269637
+    second: king_light_6
+  - first:
+      213: -9216699975871399014
+    second: king_light_7
+  - first:
+      213: 3655274174843630078
+    second: king_light_8
+  - first:
+      213: -6288776228980420602
+    second: king_light_9
+  - first:
+      213: -6845204098846572692
+    second: king_light_10
+  - first:
+      213: 3586599612198760365
+    second: king_light_11
+  - first:
+      213: -3062712290843171404
+    second: king_light_12
+  - first:
+      213: 7412603773888025366
+    second: king_light_13
+  - first:
+      213: 6676440911926386693
+    second: king_light_14
+  - first:
+      213: 7313454535584053655
+    second: king_light_15
+  - first:
+      213: 5113306470517173889
+    second: king_light_16
+  - first:
+      213: 3109598245492422251
+    second: king_light_17
+  - first:
+      213: -4741089954718912498
+    second: king_light_18
+  - first:
+      213: -6412408114572827677
+    second: king_light_19
+  - first:
+      213: 9128539113387554563
+    second: king_light_20
+  - first:
+      213: 8434951723260653169
+    second: king_light_21
+  - first:
+      213: -1062692893997257433
+    second: king_light_22
+  - first:
+      213: 4991501928500729133
+    second: king_light_23
+  - first:
+      213: -4863910348508923987
+    second: king_light_24
+  - first:
+      213: -6397662107529306926
+    second: king_light_25
+  - first:
+      213: -3441469533512464711
+    second: king_light_26
+  - first:
+      213: -6842908457419658614
+    second: king_light_27
+  - first:
+      213: 7437810807033081232
+    second: king_light_28
+  - first:
+      213: 334182852091538039
+    second: king_light_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: king_light_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e29e86ac4fbd50800000000000000
+      internalID: 6755202244319305802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b253e1ec5697bd40800000000000000
+      internalID: 5600109987329430196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e7ab6486745b40800000000000000
+      internalID: 5428093762002215931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c471e8d7883907ec0800000000000000
+      internalID: -3571192290073503924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d0725f25403f40800000000000000
+      internalID: 5706136797427324646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4441f387c68cab0800000000000000
+      internalID: -4987617323602656041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d3d29319a5fa8a0800000000000000
+      internalID: -6291710574637269637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b75d04434b71080800000000000000
+      internalID: -9216699975871399014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b63cde742ab230800000000000000
+      internalID: 3655274174843630078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60093bfc657c9b8a0800000000000000
+      internalID: -6288776228980420602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fb339b323f001a0800000000000000
+      internalID: -6845204098846572692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf29ac385926c130800000000000000
+      internalID: 3586599612198760365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e11ff56f0f75d0800000000000000
+      internalID: -3062712290843171404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613d053dbdbded660800000000000000
+      internalID: 7412603773888025366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e147d2ab77ac50800000000000000
+      internalID: 6676440911926386693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f47ad62c9e7560800000000000000
+      internalID: 7313454535584053655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee1eab42d16f640800000000000000
+      internalID: 5113306470517173889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f0c00123872b20800000000000000
+      internalID: 3109598245492422251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e007ec83ec3443eb0800000000000000
+      internalID: -4741089954718912498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ed005bcc8207a0800000000000000
+      internalID: -6412408114572827677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30779b365f51fae70800000000000000
+      internalID: 9128539113387554563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e258ae6e7fe0570800000000000000
+      internalID: 8434951723260653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d26fb717e8041f0800000000000000
+      internalID: -1062692893997257433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2596ffce80654540800000000000000
+      internalID: 4991501928500729133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da777c1ee4bef7cb0800000000000000
+      internalID: -4863910348508923987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1dbf9530f637a0800000000000000
+      internalID: -6397662107529306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b609a561b17d30d0800000000000000
+      internalID: -3441469533512464711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2cf4630b1901a0800000000000000
+      internalID: -6842908457419658614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da4c39589683760800000000000000
+      internalID: 7437810807033081232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_light_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a61fc888143a400800000000000000
+      internalID: 334182852091538039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      king_light_0: 6755202244319305802
+      king_light_1: 5600109987329430196
+      king_light_10: -6845204098846572692
+      king_light_11: 3586599612198760365
+      king_light_12: -3062712290843171404
+      king_light_13: 7412603773888025366
+      king_light_14: 6676440911926386693
+      king_light_15: 7313454535584053655
+      king_light_16: 5113306470517173889
+      king_light_17: 3109598245492422251
+      king_light_18: -4741089954718912498
+      king_light_19: -6412408114572827677
+      king_light_2: 5428093762002215931
+      king_light_20: 9128539113387554563
+      king_light_21: 8434951723260653169
+      king_light_22: -1062692893997257433
+      king_light_23: 4991501928500729133
+      king_light_24: -4863910348508923987
+      king_light_25: -6397662107529306926
+      king_light_26: -3441469533512464711
+      king_light_27: -6842908457419658614
+      king_light_28: 7437810807033081232
+      king_light_29: 334182852091538039
+      king_light_3: -3571192290073503924
+      king_light_4: 5706136797427324646
+      king_light_5: -4987617323602656041
+      king_light_6: -6291710574637269637
+      king_light_7: -9216699975871399014
+      king_light_8: 3655274174843630078
+      king_light_9: -6288776228980420602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

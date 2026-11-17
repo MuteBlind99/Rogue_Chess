@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: e2e9c09bf28c2484c8d6e70e418d3ff9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3493995234849627328
+    second: rook_dark_16-bit_dither_0
+  - first:
+      213: -1469989182999058563
+    second: rook_dark_16-bit_dither_1
+  - first:
+      213: -8053248489721983887
+    second: rook_dark_16-bit_dither_2
+  - first:
+      213: -7999143038441968858
+    second: rook_dark_16-bit_dither_3
+  - first:
+      213: 4135867721762416275
+    second: rook_dark_16-bit_dither_4
+  - first:
+      213: -1619176416887920127
+    second: rook_dark_16-bit_dither_5
+  - first:
+      213: -8642624775505801258
+    second: rook_dark_16-bit_dither_6
+  - first:
+      213: 859997800173448921
+    second: rook_dark_16-bit_dither_7
+  - first:
+      213: 312941208934920437
+    second: rook_dark_16-bit_dither_8
+  - first:
+      213: 6940659763366092079
+    second: rook_dark_16-bit_dither_9
+  - first:
+      213: -5592677841433871057
+    second: rook_dark_16-bit_dither_10
+  - first:
+      213: -6020801491732169477
+    second: rook_dark_16-bit_dither_11
+  - first:
+      213: -4187944886558171779
+    second: rook_dark_16-bit_dither_12
+  - first:
+      213: 7790696958740590639
+    second: rook_dark_16-bit_dither_13
+  - first:
+      213: -1119087546783016556
+    second: rook_dark_16-bit_dither_14
+  - first:
+      213: 3817452612864919942
+    second: rook_dark_16-bit_dither_15
+  - first:
+      213: 7386451341356266820
+    second: rook_dark_16-bit_dither_16
+  - first:
+      213: -1940920257308403642
+    second: rook_dark_16-bit_dither_17
+  - first:
+      213: 4572061690209831078
+    second: rook_dark_16-bit_dither_18
+  - first:
+      213: -3607220873365073600
+    second: rook_dark_16-bit_dither_19
+  - first:
+      213: -8775681339983930299
+    second: rook_dark_16-bit_dither_20
+  - first:
+      213: -8561067273029909474
+    second: rook_dark_16-bit_dither_21
+  - first:
+      213: 5976313791225772732
+    second: rook_dark_16-bit_dither_22
+  - first:
+      213: -3162182189846951539
+    second: rook_dark_16-bit_dither_23
+  - first:
+      213: -8100894135412289375
+    second: rook_dark_16-bit_dither_24
+  - first:
+      213: 5149774285950359252
+    second: rook_dark_16-bit_dither_25
+  - first:
+      213: 1996431561352431559
+    second: rook_dark_16-bit_dither_26
+  - first:
+      213: 4782764189685625016
+    second: rook_dark_16-bit_dither_27
+  - first:
+      213: 3518779410054418932
+    second: rook_dark_16-bit_dither_28
+  - first:
+      213: 4618110637762608589
+    second: rook_dark_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04361eb88d5d28fc0800000000000000
+      internalID: -3493995234849627328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77acab50ac899be0800000000000000
+      internalID: -1469989182999058563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c8b22aa2d1d3090800000000000000
+      internalID: -8053248489721983887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba02ea9c55df090800000000000000
+      internalID: -7999143038441968858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39627a9b7cd856930800000000000000
+      internalID: 4135867721762416275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa4baa0a78789e0800000000000000
+      internalID: -1619176416887920127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8cf8ae8a3f0880800000000000000
+      internalID: -8642624775505801258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea4fa51735feb00800000000000000
+      internalID: 859997800173448921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b52a1f5ac75400800000000000000
+      internalID: 312941208934920437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d5846184d225060800000000000000
+      internalID: 6940659763366092079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2db22e6221d262b0800000000000000
+      internalID: -5592677841433871057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc792e51f0d17ca0800000000000000
+      internalID: -6020801491732169477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d59c9705e61e5c0800000000000000
+      internalID: -4187944886558171779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f27a6b9d1e1c60800000000000000
+      internalID: 7790696958740590639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995f6d2ec33870f0800000000000000
+      internalID: -1119087546783016556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 97
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68943b8fce05af430800000000000000
+      internalID: 3817452612864919942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457f302c52f18660800000000000000
+      internalID: 7386451341356266820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d5c53f477015e0800000000000000
+      internalID: -1940920257308403642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8012822e9337f30800000000000000
+      internalID: 4572061690209831078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04153b04ab390fdc0800000000000000
+      internalID: -3607220873365073600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cdb3c1154863680800000000000000
+      internalID: -8775681339983930299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1484d47caaf03980800000000000000
+      internalID: -8561067273029909474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbab740bab120f250800000000000000
+      internalID: 5976313791225772732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 49
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d890b136d0cad14d0800000000000000
+      internalID: -3162182189846951539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a094b744b7d39f80800000000000000
+      internalID: -8100894135412289375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6138bad6ca77740800000000000000
+      internalID: 5149774285950359252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c74ac07defb4bb10800000000000000
+      internalID: 1996431561352431559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0bbaab0bacf5240800000000000000
+      internalID: 4782764189685625016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1904bea3735d030800000000000000
+      internalID: 3518779410054418932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdfa414823d61040800000000000000
+      internalID: 4618110637762608589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rook_dark_16-bit_dither_0: -3493995234849627328
+      rook_dark_16-bit_dither_1: -1469989182999058563
+      rook_dark_16-bit_dither_10: -5592677841433871057
+      rook_dark_16-bit_dither_11: -6020801491732169477
+      rook_dark_16-bit_dither_12: -4187944886558171779
+      rook_dark_16-bit_dither_13: 7790696958740590639
+      rook_dark_16-bit_dither_14: -1119087546783016556
+      rook_dark_16-bit_dither_15: 3817452612864919942
+      rook_dark_16-bit_dither_16: 7386451341356266820
+      rook_dark_16-bit_dither_17: -1940920257308403642
+      rook_dark_16-bit_dither_18: 4572061690209831078
+      rook_dark_16-bit_dither_19: -3607220873365073600
+      rook_dark_16-bit_dither_2: -8053248489721983887
+      rook_dark_16-bit_dither_20: -8775681339983930299
+      rook_dark_16-bit_dither_21: -8561067273029909474
+      rook_dark_16-bit_dither_22: 5976313791225772732
+      rook_dark_16-bit_dither_23: -3162182189846951539
+      rook_dark_16-bit_dither_24: -8100894135412289375
+      rook_dark_16-bit_dither_25: 5149774285950359252
+      rook_dark_16-bit_dither_26: 1996431561352431559
+      rook_dark_16-bit_dither_27: 4782764189685625016
+      rook_dark_16-bit_dither_28: 3518779410054418932
+      rook_dark_16-bit_dither_29: 4618110637762608589
+      rook_dark_16-bit_dither_3: -7999143038441968858
+      rook_dark_16-bit_dither_4: 4135867721762416275
+      rook_dark_16-bit_dither_5: -1619176416887920127
+      rook_dark_16-bit_dither_6: -8642624775505801258
+      rook_dark_16-bit_dither_7: 859997800173448921
+      rook_dark_16-bit_dither_8: 312941208934920437
+      rook_dark_16-bit_dither_9: 6940659763366092079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

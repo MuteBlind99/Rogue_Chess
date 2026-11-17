@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 7ad6017c4b17e4f4bb54df79335c6b79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3211428658138496774
+    second: queen_dark_voyager_0
+  - first:
+      213: 1804724395146596374
+    second: queen_dark_voyager_1
+  - first:
+      213: 2689584557809204675
+    second: queen_dark_voyager_2
+  - first:
+      213: -8254649170682401379
+    second: queen_dark_voyager_3
+  - first:
+      213: -2270639381836501268
+    second: queen_dark_voyager_4
+  - first:
+      213: -3299273007995313488
+    second: queen_dark_voyager_5
+  - first:
+      213: -7580325742297767256
+    second: queen_dark_voyager_6
+  - first:
+      213: 352363875946563127
+    second: queen_dark_voyager_7
+  - first:
+      213: 2044787662378428420
+    second: queen_dark_voyager_8
+  - first:
+      213: 7004205249795939987
+    second: queen_dark_voyager_9
+  - first:
+      213: 5645689909644157332
+    second: queen_dark_voyager_10
+  - first:
+      213: -7614964942480329852
+    second: queen_dark_voyager_11
+  - first:
+      213: 7428351732158996350
+    second: queen_dark_voyager_12
+  - first:
+      213: 100447314881135369
+    second: queen_dark_voyager_13
+  - first:
+      213: 7963399125080574485
+    second: queen_dark_voyager_14
+  - first:
+      213: 7171146614496024297
+    second: queen_dark_voyager_15
+  - first:
+      213: -6502631997769902475
+    second: queen_dark_voyager_16
+  - first:
+      213: -1510800055616820839
+    second: queen_dark_voyager_17
+  - first:
+      213: 7540768874725539629
+    second: queen_dark_voyager_18
+  - first:
+      213: 8438772799551072843
+    second: queen_dark_voyager_19
+  - first:
+      213: -5422615050309250682
+    second: queen_dark_voyager_20
+  - first:
+      213: 2273708717705235465
+    second: queen_dark_voyager_21
+  - first:
+      213: 7892654087439459344
+    second: queen_dark_voyager_22
+  - first:
+      213: 3279379493401080387
+    second: queen_dark_voyager_23
+  - first:
+      213: 5202646947524706079
+    second: queen_dark_voyager_24
+  - first:
+      213: -8553411954562579319
+    second: queen_dark_voyager_25
+  - first:
+      213: 481066492128020078
+    second: queen_dark_voyager_26
+  - first:
+      213: 4793265596941282285
+    second: queen_dark_voyager_27
+  - first:
+      213: 8428295780390436193
+    second: queen_dark_voyager_28
+  - first:
+      213: 2539375004364944892
+    second: queen_dark_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_dark_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbad58959419c20800000000000000
+      internalID: 3211428658138496774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d13a864bab0910800000000000000
+      internalID: 1804724395146596374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf791c7e2535520800000000000000
+      internalID: 2689584557809204675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da0047058917d80800000000000000
+      internalID: -8254649170682401379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6f9833811d70e0800000000000000
+      internalID: -2270639381836501268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a765fda0a632d0800000000000000
+      internalID: -3299273007995313488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2a79056e54dc690800000000000000
+      internalID: -7580325742297767256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73689790419d3e400800000000000000
+      internalID: 352363875946563127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408ea219b8b806c10800000000000000
+      internalID: 2044787662378428420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e5308909fe33160800000000000000
+      internalID: 7004205249795939987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e8588f05895e40800000000000000
+      internalID: 5645689909644157332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483386a0bb5325690800000000000000
+      internalID: -7614964942480329852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f9ef51b8ec61760800000000000000
+      internalID: 7428351732158996350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903c12afc4cd46100800000000000000
+      internalID: 100447314881135369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a8517ff4da38e60800000000000000
+      internalID: 7963399125080574485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d74df9d7058360800000000000000
+      internalID: 7171146614496024297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57616d386a202c5a0800000000000000
+      internalID: -6502631997769902475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a15e9a5f880be0800000000000000
+      internalID: -1510800055616820839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f765fb65136a860800000000000000
+      internalID: 7540768874725539629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6871962b8c1570800000000000000
+      internalID: 8438772799551072843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68151ac87500fb4b0800000000000000
+      internalID: -5422615050309250682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c87893806dd8f10800000000000000
+      internalID: 2273708717705235465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0142dd05317588d60800000000000000
+      internalID: 7892654087439459344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3423fdb3642b28d20800000000000000
+      internalID: 3279379493401080387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ffafe75d3833840800000000000000
+      internalID: 5202646947524706079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c7be252d2c4980800000000000000
+      internalID: -8553411954562579319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6642a00d671da600800000000000000
+      internalID: 481066492128020078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb29c32aa9158240800000000000000
+      internalID: 4793265596941282285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d78147b5257f470800000000000000
+      internalID: 8428295780390436193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5bdaebc1cad3320800000000000000
+      internalID: 2539375004364944892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_dark_voyager_0: 3211428658138496774
+      queen_dark_voyager_1: 1804724395146596374
+      queen_dark_voyager_10: 5645689909644157332
+      queen_dark_voyager_11: -7614964942480329852
+      queen_dark_voyager_12: 7428351732158996350
+      queen_dark_voyager_13: 100447314881135369
+      queen_dark_voyager_14: 7963399125080574485
+      queen_dark_voyager_15: 7171146614496024297
+      queen_dark_voyager_16: -6502631997769902475
+      queen_dark_voyager_17: -1510800055616820839
+      queen_dark_voyager_18: 7540768874725539629
+      queen_dark_voyager_19: 8438772799551072843
+      queen_dark_voyager_2: 2689584557809204675
+      queen_dark_voyager_20: -5422615050309250682
+      queen_dark_voyager_21: 2273708717705235465
+      queen_dark_voyager_22: 7892654087439459344
+      queen_dark_voyager_23: 3279379493401080387
+      queen_dark_voyager_24: 5202646947524706079
+      queen_dark_voyager_25: -8553411954562579319
+      queen_dark_voyager_26: 481066492128020078
+      queen_dark_voyager_27: 4793265596941282285
+      queen_dark_voyager_28: 8428295780390436193
+      queen_dark_voyager_29: 2539375004364944892
+      queen_dark_voyager_3: -8254649170682401379
+      queen_dark_voyager_4: -2270639381836501268
+      queen_dark_voyager_5: -3299273007995313488
+      queen_dark_voyager_6: -7580325742297767256
+      queen_dark_voyager_7: 352363875946563127
+      queen_dark_voyager_8: 2044787662378428420
+      queen_dark_voyager_9: 7004205249795939987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

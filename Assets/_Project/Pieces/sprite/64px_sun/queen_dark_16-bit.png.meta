@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 57e22590386992a4b8ae04d624df6797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8339458139887555430
+    second: queen_dark_16-bit_0
+  - first:
+      213: 5547445258215531947
+    second: queen_dark_16-bit_1
+  - first:
+      213: 4268288017691426978
+    second: queen_dark_16-bit_2
+  - first:
+      213: -5452765231224611633
+    second: queen_dark_16-bit_3
+  - first:
+      213: 7937272254627773622
+    second: queen_dark_16-bit_4
+  - first:
+      213: 675813477956057003
+    second: queen_dark_16-bit_5
+  - first:
+      213: -5897099459590837783
+    second: queen_dark_16-bit_6
+  - first:
+      213: 8237679549741795625
+    second: queen_dark_16-bit_7
+  - first:
+      213: 814689987407269803
+    second: queen_dark_16-bit_8
+  - first:
+      213: 1657334713355284075
+    second: queen_dark_16-bit_9
+  - first:
+      213: 7260500908230178559
+    second: queen_dark_16-bit_10
+  - first:
+      213: 6738785577404199442
+    second: queen_dark_16-bit_11
+  - first:
+      213: 1372616343145805645
+    second: queen_dark_16-bit_12
+  - first:
+      213: -4374539665650931304
+    second: queen_dark_16-bit_13
+  - first:
+      213: 4838422448398696526
+    second: queen_dark_16-bit_14
+  - first:
+      213: 433317650269036885
+    second: queen_dark_16-bit_15
+  - first:
+      213: 1412162553993619431
+    second: queen_dark_16-bit_16
+  - first:
+      213: -6605223559128823845
+    second: queen_dark_16-bit_17
+  - first:
+      213: 3041529865620148097
+    second: queen_dark_16-bit_18
+  - first:
+      213: 1385491260263747490
+    second: queen_dark_16-bit_19
+  - first:
+      213: 743874277060954547
+    second: queen_dark_16-bit_20
+  - first:
+      213: -1585131804571480745
+    second: queen_dark_16-bit_21
+  - first:
+      213: 7235792461495958832
+    second: queen_dark_16-bit_22
+  - first:
+      213: -7939278972321440858
+    second: queen_dark_16-bit_23
+  - first:
+      213: 1403414253664810475
+    second: queen_dark_16-bit_24
+  - first:
+      213: 635393136747839947
+    second: queen_dark_16-bit_25
+  - first:
+      213: -7559701466883507890
+    second: queen_dark_16-bit_26
+  - first:
+      213: -1916018727039430222
+    second: queen_dark_16-bit_27
+  - first:
+      213: 2071684263675935598
+    second: queen_dark_16-bit_28
+  - first:
+      213: 8144596300971415369
+    second: queen_dark_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_dark_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663dc3f6ef4bbb370800000000000000
+      internalID: 8339458139887555430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5acda121c7cfc40800000000000000
+      internalID: 5547445258215531947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0cd8576510c3b30800000000000000
+      internalID: 4268288017691426978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc914589e2e354b0800000000000000
+      internalID: -5452765231224611633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf6a6ef0bd62e60800000000000000
+      internalID: 7937272254627773622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7fdff07c8f06900800000000000000
+      internalID: 675813477956057003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9a0f1294b492ea0800000000000000
+      internalID: -5897099459590837783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9290cd7c7ed125270800000000000000
+      internalID: 8237679549741795625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4a752a3c5e4b00800000000000000
+      internalID: 814689987407269803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e277f0429000710800000000000000
+      internalID: 1657334713355284075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6f576bb1b72c460800000000000000
+      internalID: 7260500908230178559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f3be67c9f48d50800000000000000
+      internalID: 6738785577404199442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47f91aaa438c0310800000000000000
+      internalID: 1372616343145805645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992505f9538a43c0800000000000000
+      internalID: -4374539665650931304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40841ee497852340800000000000000
+      internalID: 4838422448398696526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551613b6b14730600800000000000000
+      internalID: 433317650269036885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7e5e36c52099310800000000000000
+      internalID: 1412162553993619431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7c5104b288554a0800000000000000
+      internalID: -6605223559128823845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc70e4c4fa53a20800000000000000
+      internalID: 3041529865620148097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afcd67e5f04a3310800000000000000
+      internalID: 1385491260263747490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9c4c9b6b5c25a00800000000000000
+      internalID: 743874277060954547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc75aa50b700ae0800000000000000
+      internalID: -1585131804571480745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7ae728e2ba6460800000000000000
+      internalID: 7235792461495958832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab5d0ab6d302d190800000000000000
+      internalID: -7939278972321440858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5396ef3dde97310800000000000000
+      internalID: 1403414253664810475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1839001be51d800800000000000000
+      internalID: 635393136747839947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b862a19b861790800000000000000
+      internalID: -7559701466883507890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b191d78e1fe865e0800000000000000
+      internalID: -1916018727039430222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bbb2f8cd910cc10800000000000000
+      internalID: 2071684263675935598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479c5e0f2b670170800000000000000
+      internalID: 8144596300971415369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_dark_16-bit_0: 8339458139887555430
+      queen_dark_16-bit_1: 5547445258215531947
+      queen_dark_16-bit_10: 7260500908230178559
+      queen_dark_16-bit_11: 6738785577404199442
+      queen_dark_16-bit_12: 1372616343145805645
+      queen_dark_16-bit_13: -4374539665650931304
+      queen_dark_16-bit_14: 4838422448398696526
+      queen_dark_16-bit_15: 433317650269036885
+      queen_dark_16-bit_16: 1412162553993619431
+      queen_dark_16-bit_17: -6605223559128823845
+      queen_dark_16-bit_18: 3041529865620148097
+      queen_dark_16-bit_19: 1385491260263747490
+      queen_dark_16-bit_2: 4268288017691426978
+      queen_dark_16-bit_20: 743874277060954547
+      queen_dark_16-bit_21: -1585131804571480745
+      queen_dark_16-bit_22: 7235792461495958832
+      queen_dark_16-bit_23: -7939278972321440858
+      queen_dark_16-bit_24: 1403414253664810475
+      queen_dark_16-bit_25: 635393136747839947
+      queen_dark_16-bit_26: -7559701466883507890
+      queen_dark_16-bit_27: -1916018727039430222
+      queen_dark_16-bit_28: 2071684263675935598
+      queen_dark_16-bit_29: 8144596300971415369
+      queen_dark_16-bit_3: -5452765231224611633
+      queen_dark_16-bit_4: 7937272254627773622
+      queen_dark_16-bit_5: 675813477956057003
+      queen_dark_16-bit_6: -5897099459590837783
+      queen_dark_16-bit_7: 8237679549741795625
+      queen_dark_16-bit_8: 814689987407269803
+      queen_dark_16-bit_9: 1657334713355284075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

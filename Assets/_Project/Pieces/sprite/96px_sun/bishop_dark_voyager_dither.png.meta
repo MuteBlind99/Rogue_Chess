@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 153e3cbe1a939da4ebbf0d9a44913741
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 347122839001400652
+    second: bishop_dark_voyager_dither_0
+  - first:
+      213: 7854647288305736517
+    second: bishop_dark_voyager_dither_1
+  - first:
+      213: -1357984490796418424
+    second: bishop_dark_voyager_dither_2
+  - first:
+      213: 7753794908250592877
+    second: bishop_dark_voyager_dither_3
+  - first:
+      213: 3403257179331822752
+    second: bishop_dark_voyager_dither_4
+  - first:
+      213: 2341932301731467226
+    second: bishop_dark_voyager_dither_5
+  - first:
+      213: -7056123309664232618
+    second: bishop_dark_voyager_dither_6
+  - first:
+      213: 1268953832860813701
+    second: bishop_dark_voyager_dither_7
+  - first:
+      213: 337169348622575791
+    second: bishop_dark_voyager_dither_8
+  - first:
+      213: 1333332335101670807
+    second: bishop_dark_voyager_dither_9
+  - first:
+      213: -1715749808995321529
+    second: bishop_dark_voyager_dither_10
+  - first:
+      213: -6955442700147701219
+    second: bishop_dark_voyager_dither_11
+  - first:
+      213: 421400552189370188
+    second: bishop_dark_voyager_dither_12
+  - first:
+      213: -7994569427207226919
+    second: bishop_dark_voyager_dither_13
+  - first:
+      213: 7272853854566625575
+    second: bishop_dark_voyager_dither_14
+  - first:
+      213: -5804599814834729532
+    second: bishop_dark_voyager_dither_15
+  - first:
+      213: -6721009805441398215
+    second: bishop_dark_voyager_dither_16
+  - first:
+      213: -2078883092437127462
+    second: bishop_dark_voyager_dither_17
+  - first:
+      213: 2219333357502975141
+    second: bishop_dark_voyager_dither_18
+  - first:
+      213: 3347491309497232485
+    second: bishop_dark_voyager_dither_19
+  - first:
+      213: -900250517514592243
+    second: bishop_dark_voyager_dither_20
+  - first:
+      213: -881206441070215449
+    second: bishop_dark_voyager_dither_21
+  - first:
+      213: -120399635753043840
+    second: bishop_dark_voyager_dither_22
+  - first:
+      213: 4290623418688635720
+    second: bishop_dark_voyager_dither_23
+  - first:
+      213: 1549066419683976415
+    second: bishop_dark_voyager_dither_24
+  - first:
+      213: -6714703185314045408
+    second: bishop_dark_voyager_dither_25
+  - first:
+      213: 2850705941005351705
+    second: bishop_dark_voyager_dither_26
+  - first:
+      213: 6313926592128565224
+    second: bishop_dark_voyager_dither_27
+  - first:
+      213: 4143376380657853080
+    second: bishop_dark_voyager_dither_28
+  - first:
+      213: -6693648701719057277
+    second: bishop_dark_voyager_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458a18026a31d400800000000000000
+      internalID: 347122839001400652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd27fc710510d60800000000000000
+      internalID: 7854647288305736517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af69fec48772de0800000000000000
+      internalID: -1357984490796418424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66528f33630b9b60800000000000000
+      internalID: 7753794908250592877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40f559f5cca3f20800000000000000
+      internalID: 3403257179331822752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf87b43507308020800000000000000
+      internalID: 2341932301731467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1c1c1c3d931e90800000000000000
+      internalID: -7056123309664232618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890a0ca9ca3c9110800000000000000
+      internalID: 1268953832860813701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa86cc57cbddda400800000000000000
+      internalID: 337169348622575791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f649c1b2f08210800000000000000
+      internalID: 1333332335101670807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b36f93ae6038e0800000000000000
+      internalID: -1715749808995321529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acc1a37bd497f90800000000000000
+      internalID: -6955442700147701219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f966dc19d19d500800000000000000
+      internalID: 421400552189370188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d97d1786759d0190800000000000000
+      internalID: -7994569427207226919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72136c82c0e5ee460800000000000000
+      internalID: 7272853854566625575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4a75f83be17fa0800000000000000
+      internalID: -5804599814834729532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a8fbef03d2ab2a0800000000000000
+      internalID: -6721009805441398215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade28b187d25623e0800000000000000
+      internalID: -2078883092437127462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc32c1ee7acce10800000000000000
+      internalID: 2219333357502975141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c2a473c9da47e20800000000000000
+      internalID: 3347491309497232485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d006eae8ceaa183f0800000000000000
+      internalID: -900250517514592243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee3932296355c3f0800000000000000
+      internalID: -881206441070215449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887adf4b21445ef0800000000000000
+      internalID: -120399635753043840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84388ef344b5b8b30800000000000000
+      internalID: 4290623418688635720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4efbe83b36f7510800000000000000
+      internalID: 1549066419683976415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0222c2b670590d2a0800000000000000
+      internalID: -6714703185314045408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b38bc13fdbf8720800000000000000
+      internalID: 2850705941005351705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef37bd68c29f9750800000000000000
+      internalID: 6313926592128565224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892eadb9dda308930800000000000000
+      internalID: 4143376380657853080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_dither_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce7c268f16b13a0800000000000000
+      internalID: -6693648701719057277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bishop_dark_voyager_dither_0: 347122839001400652
+      bishop_dark_voyager_dither_1: 7854647288305736517
+      bishop_dark_voyager_dither_10: -1715749808995321529
+      bishop_dark_voyager_dither_11: -6955442700147701219
+      bishop_dark_voyager_dither_12: 421400552189370188
+      bishop_dark_voyager_dither_13: -7994569427207226919
+      bishop_dark_voyager_dither_14: 7272853854566625575
+      bishop_dark_voyager_dither_15: -5804599814834729532
+      bishop_dark_voyager_dither_16: -6721009805441398215
+      bishop_dark_voyager_dither_17: -2078883092437127462
+      bishop_dark_voyager_dither_18: 2219333357502975141
+      bishop_dark_voyager_dither_19: 3347491309497232485
+      bishop_dark_voyager_dither_2: -1357984490796418424
+      bishop_dark_voyager_dither_20: -900250517514592243
+      bishop_dark_voyager_dither_21: -881206441070215449
+      bishop_dark_voyager_dither_22: -120399635753043840
+      bishop_dark_voyager_dither_23: 4290623418688635720
+      bishop_dark_voyager_dither_24: 1549066419683976415
+      bishop_dark_voyager_dither_25: -6714703185314045408
+      bishop_dark_voyager_dither_26: 2850705941005351705
+      bishop_dark_voyager_dither_27: 6313926592128565224
+      bishop_dark_voyager_dither_28: 4143376380657853080
+      bishop_dark_voyager_dither_29: -6693648701719057277
+      bishop_dark_voyager_dither_3: 7753794908250592877
+      bishop_dark_voyager_dither_4: 3403257179331822752
+      bishop_dark_voyager_dither_5: 2341932301731467226
+      bishop_dark_voyager_dither_6: -7056123309664232618
+      bishop_dark_voyager_dither_7: 1268953832860813701
+      bishop_dark_voyager_dither_8: 337169348622575791
+      bishop_dark_voyager_dither_9: 1333332335101670807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

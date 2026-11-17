@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: feccf0db728182f4fa2387db18848753
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -17284258988713741
+    second: queen_dark_0
+  - first:
+      213: -2083702287069861507
+    second: queen_dark_1
+  - first:
+      213: -3147258019219427306
+    second: queen_dark_2
+  - first:
+      213: 2963721129803007453
+    second: queen_dark_3
+  - first:
+      213: -6258977747394688775
+    second: queen_dark_4
+  - first:
+      213: 7634330668751230349
+    second: queen_dark_5
+  - first:
+      213: -8661712879285777063
+    second: queen_dark_6
+  - first:
+      213: 5102067049027470036
+    second: queen_dark_7
+  - first:
+      213: -7726999988073352972
+    second: queen_dark_8
+  - first:
+      213: 7355185571351009269
+    second: queen_dark_9
+  - first:
+      213: 6779670408623839252
+    second: queen_dark_10
+  - first:
+      213: -6894478614716703739
+    second: queen_dark_11
+  - first:
+      213: -8483011325284679140
+    second: queen_dark_12
+  - first:
+      213: -8476682978540364807
+    second: queen_dark_13
+  - first:
+      213: -3776866828523067740
+    second: queen_dark_14
+  - first:
+      213: -7980134109412326308
+    second: queen_dark_15
+  - first:
+      213: -5105958667182750763
+    second: queen_dark_16
+  - first:
+      213: 757971779400893306
+    second: queen_dark_17
+  - first:
+      213: 7471077527748990042
+    second: queen_dark_18
+  - first:
+      213: -5978218524927388561
+    second: queen_dark_19
+  - first:
+      213: -7925620589934601101
+    second: queen_dark_20
+  - first:
+      213: 2465178067414943823
+    second: queen_dark_21
+  - first:
+      213: -726943599121283450
+    second: queen_dark_22
+  - first:
+      213: -5742698578080619231
+    second: queen_dark_23
+  - first:
+      213: 20406629386825659
+    second: queen_dark_24
+  - first:
+      213: 1583681769255373395
+    second: queen_dark_25
+  - first:
+      213: 8330653143399762156
+    second: queen_dark_26
+  - first:
+      213: 5764482989128873061
+    second: queen_dark_27
+  - first:
+      213: -5537724177176349557
+    second: queen_dark_28
+  - first:
+      213: -3004762175077385251
+    second: queen_dark_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_dark_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f895cade0892cff0800000000000000
+      internalID: -17284258988713741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7928815fc33513e0800000000000000
+      internalID: -2083702287069861507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103de3a181b254d0800000000000000
+      internalID: -3147258019219427306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd54a334aa0412920800000000000000
+      internalID: 2963721129803007453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8077576e4a329a0800000000000000
+      internalID: -6258977747394688775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8599c87b4792f960800000000000000
+      internalID: 7634330668751230349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dcebb270a6bc780800000000000000
+      internalID: -8661712879285777063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 291
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2028df2fe2ec640800000000000000
+      internalID: 5102067049027470036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b073437e24c490800000000000000
+      internalID: -7726999988073352972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79475ce4ed21660800000000000000
+      internalID: 7355185571351009269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4185040015a361e50800000000000000
+      internalID: 6779670408623839252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c984a7a34e150a0800000000000000
+      internalID: -6894478614716703739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128ac2052a464a80800000000000000
+      internalID: -8483011325284679140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb508e0eb5cc5a80800000000000000
+      internalID: -8476682978540364807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a62de151afd59bc0800000000000000
+      internalID: -3776866828523067740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 195
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54008cde4ed04190800000000000000
+      internalID: -7980134109412326308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3cebc05adf329b0800000000000000
+      internalID: -5105958667182750763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7306f4415bd48a00800000000000000
+      internalID: 757971779400893306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54d1e29d699ea760800000000000000
+      internalID: 7471077527748990042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641b00fce9190da0800000000000000
+      internalID: -5978218524927388561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1d60b01a820290800000000000000
+      internalID: -7925620589934601101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f480a582462163220800000000000000
+      internalID: 2465178067414943823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c1aae5a069e5f0800000000000000
+      internalID: -726943599121283450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 99
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1252d51c116dd40b0800000000000000
+      internalID: -5742698578080619231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2aa7a8bf784000800000000000000
+      internalID: 20406629386825659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a8abdad2e5af510800000000000000
+      internalID: 1583681769255373395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8855f65ec6c9370800000000000000
+      internalID: 8330653143399762156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564fec0bcbe8fff40800000000000000
+      internalID: 5764482989128873061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bf43733d0623b0800000000000000
+      internalID: -5537724177176349557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb7bffb8b0fc46d0800000000000000
+      internalID: -3004762175077385251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_dark_0: -17284258988713741
+      queen_dark_1: -2083702287069861507
+      queen_dark_10: 6779670408623839252
+      queen_dark_11: -6894478614716703739
+      queen_dark_12: -8483011325284679140
+      queen_dark_13: -8476682978540364807
+      queen_dark_14: -3776866828523067740
+      queen_dark_15: -7980134109412326308
+      queen_dark_16: -5105958667182750763
+      queen_dark_17: 757971779400893306
+      queen_dark_18: 7471077527748990042
+      queen_dark_19: -5978218524927388561
+      queen_dark_2: -3147258019219427306
+      queen_dark_20: -7925620589934601101
+      queen_dark_21: 2465178067414943823
+      queen_dark_22: -726943599121283450
+      queen_dark_23: -5742698578080619231
+      queen_dark_24: 20406629386825659
+      queen_dark_25: 1583681769255373395
+      queen_dark_26: 8330653143399762156
+      queen_dark_27: 5764482989128873061
+      queen_dark_28: -5537724177176349557
+      queen_dark_29: -3004762175077385251
+      queen_dark_3: 2963721129803007453
+      queen_dark_4: -6258977747394688775
+      queen_dark_5: 7634330668751230349
+      queen_dark_6: -8661712879285777063
+      queen_dark_7: 5102067049027470036
+      queen_dark_8: -7726999988073352972
+      queen_dark_9: 7355185571351009269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

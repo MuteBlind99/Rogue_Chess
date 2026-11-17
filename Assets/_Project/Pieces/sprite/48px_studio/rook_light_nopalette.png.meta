@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 38dd6304b3c3c16479aa4b637543b55a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7264926446210902093
+    second: rook_light_nopalette_0
+  - first:
+      213: 4277113333271310374
+    second: rook_light_nopalette_1
+  - first:
+      213: -3388519091377758776
+    second: rook_light_nopalette_2
+  - first:
+      213: -1485400772347165681
+    second: rook_light_nopalette_3
+  - first:
+      213: -4199571075348058711
+    second: rook_light_nopalette_4
+  - first:
+      213: 6812289067622535930
+    second: rook_light_nopalette_5
+  - first:
+      213: -1067545322002589361
+    second: rook_light_nopalette_6
+  - first:
+      213: -5849226613267743205
+    second: rook_light_nopalette_7
+  - first:
+      213: -5387612792397139733
+    second: rook_light_nopalette_8
+  - first:
+      213: -7486073999626549494
+    second: rook_light_nopalette_9
+  - first:
+      213: -1333879775822682580
+    second: rook_light_nopalette_10
+  - first:
+      213: 6098030694005597484
+    second: rook_light_nopalette_11
+  - first:
+      213: 1847688335146989312
+    second: rook_light_nopalette_12
+  - first:
+      213: 8625768134644273911
+    second: rook_light_nopalette_13
+  - first:
+      213: -5642078893836738453
+    second: rook_light_nopalette_14
+  - first:
+      213: -4168381091049107781
+    second: rook_light_nopalette_15
+  - first:
+      213: -488806566023537480
+    second: rook_light_nopalette_16
+  - first:
+      213: -1632123203420092299
+    second: rook_light_nopalette_17
+  - first:
+      213: -3184454295907872149
+    second: rook_light_nopalette_18
+  - first:
+      213: -635221205412259428
+    second: rook_light_nopalette_19
+  - first:
+      213: 6897478854570656299
+    second: rook_light_nopalette_20
+  - first:
+      213: -637470236387656260
+    second: rook_light_nopalette_21
+  - first:
+      213: 6234913149280828169
+    second: rook_light_nopalette_22
+  - first:
+      213: -4093752709810215263
+    second: rook_light_nopalette_23
+  - first:
+      213: 6085349678750165668
+    second: rook_light_nopalette_24
+  - first:
+      213: 8306329100347948628
+    second: rook_light_nopalette_25
+  - first:
+      213: 4715184304722110253
+    second: rook_light_nopalette_26
+  - first:
+      213: -8367088009640073105
+    second: rook_light_nopalette_27
+  - first:
+      213: 5969052670618263382
+    second: rook_light_nopalette_28
+  - first:
+      213: -3412227525578111723
+    second: rook_light_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rook_light_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7124e63ebcd2b90800000000000000
+      internalID: -7264926446210902093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62039bd5aeb5b5b30800000000000000
+      internalID: 4277113333271310374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9ccbe6df89f0d0800000000000000
+      internalID: -3388519091377758776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0408271edbc26be0800000000000000
+      internalID: -1485400772347165681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adafd47b5028b5c0800000000000000
+      internalID: -4199571075348058711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af21bee50dc1a8e50800000000000000
+      internalID: 6812289067622535930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d76c8f215f21f0800000000000000
+      internalID: -1067545322002589361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e3a61c26f53dea0800000000000000
+      internalID: -5849226613267743205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be071d9c5ba5b35b0800000000000000
+      internalID: -5387612792397139733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c8f93c5f1c1890800000000000000
+      internalID: -7486073999626549494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e20d396b1d7de0800000000000000
+      internalID: -1333879775822682580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e1a18b9e80a450800000000000000
+      internalID: 6098030694005597484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b11850ce44a910800000000000000
+      internalID: 1847688335146989312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f21b5cca62e4b770800000000000000
+      internalID: 8625768134644273911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e12a932f43b1b0800000000000000
+      internalID: -5642078893836738453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 98
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe00939b7fe626c0800000000000000
+      internalID: -4168381091049107781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd94c94096739f0800000000000000
+      internalID: -488806566023537480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578097608988959e0800000000000000
+      internalID: -1632123203420092299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d1f890bb8ec3d0800000000000000
+      internalID: -3184454295907872149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995b91edad3f27f0800000000000000
+      internalID: -635221205412259428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22c37c4974c8bf50800000000000000
+      internalID: 6897478854570656299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdba3d82304727f0800000000000000
+      internalID: -637470236387656260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bbb4ca97cd68650800000000000000
+      internalID: 6234913149280828169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6287d99911037c0800000000000000
+      internalID: -4093752709810215263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae0ff8a41837450800000000000000
+      internalID: 6085349678750165668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ebab5de42064370800000000000000
+      internalID: 8306329100347948628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27657d9423bf6140800000000000000
+      internalID: 4715184304722110253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6829f439c122eb80800000000000000
+      internalID: -8367088009640073105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5ccd47c556d250800000000000000
+      internalID: 5969052670618263382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154b1de42555a0d0800000000000000
+      internalID: -3412227525578111723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rook_light_nopalette_0: -7264926446210902093
+      rook_light_nopalette_1: 4277113333271310374
+      rook_light_nopalette_10: -1333879775822682580
+      rook_light_nopalette_11: 6098030694005597484
+      rook_light_nopalette_12: 1847688335146989312
+      rook_light_nopalette_13: 8625768134644273911
+      rook_light_nopalette_14: -5642078893836738453
+      rook_light_nopalette_15: -4168381091049107781
+      rook_light_nopalette_16: -488806566023537480
+      rook_light_nopalette_17: -1632123203420092299
+      rook_light_nopalette_18: -3184454295907872149
+      rook_light_nopalette_19: -635221205412259428
+      rook_light_nopalette_2: -3388519091377758776
+      rook_light_nopalette_20: 6897478854570656299
+      rook_light_nopalette_21: -637470236387656260
+      rook_light_nopalette_22: 6234913149280828169
+      rook_light_nopalette_23: -4093752709810215263
+      rook_light_nopalette_24: 6085349678750165668
+      rook_light_nopalette_25: 8306329100347948628
+      rook_light_nopalette_26: 4715184304722110253
+      rook_light_nopalette_27: -8367088009640073105
+      rook_light_nopalette_28: 5969052670618263382
+      rook_light_nopalette_29: -3412227525578111723
+      rook_light_nopalette_3: -1485400772347165681
+      rook_light_nopalette_4: -4199571075348058711
+      rook_light_nopalette_5: 6812289067622535930
+      rook_light_nopalette_6: -1067545322002589361
+      rook_light_nopalette_7: -5849226613267743205
+      rook_light_nopalette_8: -5387612792397139733
+      rook_light_nopalette_9: -7486073999626549494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

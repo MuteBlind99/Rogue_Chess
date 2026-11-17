@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 70f9c3eda56a143448da66374483df9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2759447077241842023
+    second: bishop_light_voyager_0
+  - first:
+      213: -461453704380689239
+    second: bishop_light_voyager_1
+  - first:
+      213: -5310027844969402956
+    second: bishop_light_voyager_2
+  - first:
+      213: -7745117712100057356
+    second: bishop_light_voyager_3
+  - first:
+      213: -2558733567600522295
+    second: bishop_light_voyager_4
+  - first:
+      213: 3876778391945441212
+    second: bishop_light_voyager_5
+  - first:
+      213: 7910917927270532376
+    second: bishop_light_voyager_6
+  - first:
+      213: 6230939367755327115
+    second: bishop_light_voyager_7
+  - first:
+      213: -150278848620211038
+    second: bishop_light_voyager_8
+  - first:
+      213: -7243728563465174810
+    second: bishop_light_voyager_9
+  - first:
+      213: 2150729898145665870
+    second: bishop_light_voyager_10
+  - first:
+      213: 614831393960863975
+    second: bishop_light_voyager_11
+  - first:
+      213: 6551889392610074151
+    second: bishop_light_voyager_12
+  - first:
+      213: 1728356115671648295
+    second: bishop_light_voyager_13
+  - first:
+      213: 4911437928501356054
+    second: bishop_light_voyager_14
+  - first:
+      213: -4716222740808991821
+    second: bishop_light_voyager_15
+  - first:
+      213: 4652753783307890972
+    second: bishop_light_voyager_16
+  - first:
+      213: 8727781383332168599
+    second: bishop_light_voyager_17
+  - first:
+      213: -5030248459920320287
+    second: bishop_light_voyager_18
+  - first:
+      213: -823671571038300550
+    second: bishop_light_voyager_19
+  - first:
+      213: -8291985395619160932
+    second: bishop_light_voyager_20
+  - first:
+      213: -2699611453618258865
+    second: bishop_light_voyager_21
+  - first:
+      213: -1421471767028854317
+    second: bishop_light_voyager_22
+  - first:
+      213: -3443305135196857171
+    second: bishop_light_voyager_23
+  - first:
+      213: -3012063993523462315
+    second: bishop_light_voyager_24
+  - first:
+      213: -867299527030508611
+    second: bishop_light_voyager_25
+  - first:
+      213: -1223199777563864527
+    second: bishop_light_voyager_26
+  - first:
+      213: -7680795409797676861
+    second: bishop_light_voyager_27
+  - first:
+      213: 7644966416877756381
+    second: bishop_light_voyager_28
+  - first:
+      213: -7573887685559133273
+    second: bishop_light_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bishop_light_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9969280e08974b9d0800000000000000
+      internalID: -2759447077241842023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d91efc469899f0800000000000000
+      internalID: -461453704380689239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6a290fcdfe46b0800000000000000
+      internalID: -5310027844969402956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe90bae970d38490800000000000000
+      internalID: -7745117712100057356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb8d44806d8d7cd0800000000000000
+      internalID: -2558733567600522295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf61dc48651dc530800000000000000
+      internalID: 3876778391945441212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ca36e0f939cd60800000000000000
+      internalID: 7910917927270532376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 193
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ad00975eb87650800000000000000
+      internalID: 6230939367755327115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4dcb2fe2a1aedf0800000000000000
+      internalID: -150278848620211038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ce4d104b197b90800000000000000
+      internalID: -7243728563465174810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43d8c2827de8dd10800000000000000
+      internalID: 2150729898145665870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8abc135e1588800800000000000000
+      internalID: 614831393960863975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5c2e60bcfcea50800000000000000
+      internalID: 6551889392610074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7288bffdaba5cf710800000000000000
+      internalID: 1728356115671648295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61624b826cee82440800000000000000
+      internalID: 4911437928501356054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 129
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf574a76c9c8eb0800000000000000
+      internalID: -4716222740808991821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fb612ae6e19040800000000000000
+      internalID: 4652753783307890972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79308c62dee4f1970800000000000000
+      internalID: 8727781383332168599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e85e765da7f03ab0800000000000000
+      internalID: -5030248459920320287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769ca4f11bb194f0800000000000000
+      internalID: -823671571038300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c946b2733fcec80800000000000000
+      internalID: -8291985395619160932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf183afad098ad0800000000000000
+      internalID: -2699611453618258865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d19ffb85fae54ce0800000000000000
+      internalID: -1421471767028854317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1053193ce630d0800000000000000
+      internalID: -3443305135196857171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f1a49a1cff236d0800000000000000
+      internalID: -3012063993523462315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db37b71ecabb6f3f0800000000000000
+      internalID: -867299527030508611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13218f87842560fe0800000000000000
+      internalID: -1223199777563864527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00f86f445586590800000000000000
+      internalID: -7680795409797676861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1acd8370681a60800000000000000
+      internalID: 7644966416877756381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_light_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abda85374524e690800000000000000
+      internalID: -7573887685559133273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bishop_light_voyager_0: -2759447077241842023
+      bishop_light_voyager_1: -461453704380689239
+      bishop_light_voyager_10: 2150729898145665870
+      bishop_light_voyager_11: 614831393960863975
+      bishop_light_voyager_12: 6551889392610074151
+      bishop_light_voyager_13: 1728356115671648295
+      bishop_light_voyager_14: 4911437928501356054
+      bishop_light_voyager_15: -4716222740808991821
+      bishop_light_voyager_16: 4652753783307890972
+      bishop_light_voyager_17: 8727781383332168599
+      bishop_light_voyager_18: -5030248459920320287
+      bishop_light_voyager_19: -823671571038300550
+      bishop_light_voyager_2: -5310027844969402956
+      bishop_light_voyager_20: -8291985395619160932
+      bishop_light_voyager_21: -2699611453618258865
+      bishop_light_voyager_22: -1421471767028854317
+      bishop_light_voyager_23: -3443305135196857171
+      bishop_light_voyager_24: -3012063993523462315
+      bishop_light_voyager_25: -867299527030508611
+      bishop_light_voyager_26: -1223199777563864527
+      bishop_light_voyager_27: -7680795409797676861
+      bishop_light_voyager_28: 7644966416877756381
+      bishop_light_voyager_29: -7573887685559133273
+      bishop_light_voyager_3: -7745117712100057356
+      bishop_light_voyager_4: -2558733567600522295
+      bishop_light_voyager_5: 3876778391945441212
+      bishop_light_voyager_6: 7910917927270532376
+      bishop_light_voyager_7: 6230939367755327115
+      bishop_light_voyager_8: -150278848620211038
+      bishop_light_voyager_9: -7243728563465174810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

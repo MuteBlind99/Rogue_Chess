@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: efa34ec67688a9647a2382b618ce28be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2564630300750357898
+    second: bishop_dark_voyager_0
+  - first:
+      213: -6678666415226494518
+    second: bishop_dark_voyager_1
+  - first:
+      213: -2870277470751634964
+    second: bishop_dark_voyager_2
+  - first:
+      213: 7151323134398141624
+    second: bishop_dark_voyager_3
+  - first:
+      213: -4990305533308438310
+    second: bishop_dark_voyager_4
+  - first:
+      213: 3224128122939461097
+    second: bishop_dark_voyager_5
+  - first:
+      213: -3899034278056951738
+    second: bishop_dark_voyager_6
+  - first:
+      213: 3614716715460340110
+    second: bishop_dark_voyager_7
+  - first:
+      213: 8216266559771071851
+    second: bishop_dark_voyager_8
+  - first:
+      213: -1036811341271380467
+    second: bishop_dark_voyager_9
+  - first:
+      213: 4516800830565437553
+    second: bishop_dark_voyager_10
+  - first:
+      213: -3293181195884350748
+    second: bishop_dark_voyager_11
+  - first:
+      213: -8491822611593688003
+    second: bishop_dark_voyager_12
+  - first:
+      213: -6897354756064450356
+    second: bishop_dark_voyager_13
+  - first:
+      213: 7265670451343332896
+    second: bishop_dark_voyager_14
+  - first:
+      213: 7394118200893024595
+    second: bishop_dark_voyager_15
+  - first:
+      213: 5596475899278824717
+    second: bishop_dark_voyager_16
+  - first:
+      213: -3030995249215011478
+    second: bishop_dark_voyager_17
+  - first:
+      213: -6004778469591604286
+    second: bishop_dark_voyager_18
+  - first:
+      213: -5439497895821989370
+    second: bishop_dark_voyager_19
+  - first:
+      213: -525883313190553525
+    second: bishop_dark_voyager_20
+  - first:
+      213: -9137802317689025348
+    second: bishop_dark_voyager_21
+  - first:
+      213: -7934889380053772500
+    second: bishop_dark_voyager_22
+  - first:
+      213: -4105813869681004655
+    second: bishop_dark_voyager_23
+  - first:
+      213: 6681719363077407020
+    second: bishop_dark_voyager_24
+  - first:
+      213: 5650370578170081941
+    second: bishop_dark_voyager_25
+  - first:
+      213: -73510124505255965
+    second: bishop_dark_voyager_26
+  - first:
+      213: -982269900517479500
+    second: bishop_dark_voyager_27
+  - first:
+      213: -7331774706977603710
+    second: bishop_dark_voyager_28
+  - first:
+      213: 7485200614007424557
+    second: bishop_dark_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bishop_dark_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ad68aba5679320800000000000000
+      internalID: 2564630300750357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e71bc74c9053a0800000000000000
+      internalID: -6678666415226494518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9ca0509d9ba28d0800000000000000
+      internalID: -2870277470751634964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b495db508a9e3360800000000000000
+      internalID: 7151323134398141624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8fb76ae8fdebab0800000000000000
+      internalID: -4990305533308438310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed472612776ebc20800000000000000
+      internalID: 3224128122939461097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64008596bf8d3e9c0800000000000000
+      internalID: -3899034278056951738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 291
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892eac73bd0a2230800000000000000
+      internalID: 3614716715460340110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65531b87ea060270800000000000000
+      internalID: 8216266559771071851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e4c6014918c91f0800000000000000
+      internalID: -1036811341271380467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170da03ac66eeae30800000000000000
+      internalID: 4516800830565437553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2315e76254c42d0800000000000000
+      internalID: -3293181195884350748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c045c835cf62a80800000000000000
+      internalID: -8491822611593688003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc86de2a46ca740a0800000000000000
+      internalID: -6897354756064450356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0261f53c7c8d4d460800000000000000
+      internalID: 7265670451343332896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 195
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359aa77f35f2d9660800000000000000
+      internalID: 7394118200893024595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059c82dd2daaad40800000000000000
+      internalID: 5596475899278824717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6584a631edbfe5d0800000000000000
+      internalID: -3030995249215011478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3241debcdbaaca0800000000000000
+      internalID: -6004778469591604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aab03cb750384b0800000000000000
+      internalID: -5439497895821989370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b8f3b9efa3b8f0800000000000000
+      internalID: -525883313190553525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc876ac431003180800000000000000
+      internalID: -9137802317689025348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2710e1562c91e190800000000000000
+      internalID: -7934889380053772500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 99
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19faacff9083507c0800000000000000
+      internalID: -4105813869681004655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2104150c5c3abc50800000000000000
+      internalID: 6681719363077407020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59275299a162a6e40800000000000000
+      internalID: 5650370578170081941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef28756ee6dafef0800000000000000
+      internalID: -73510124505255965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbe812dab64e52f0800000000000000
+      internalID: -982269900517479500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff769dfbd404a90800000000000000
+      internalID: -7331774706977603710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26c276dc46c0e760800000000000000
+      internalID: 7485200614007424557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bishop_dark_voyager_0: 2564630300750357898
+      bishop_dark_voyager_1: -6678666415226494518
+      bishop_dark_voyager_10: 4516800830565437553
+      bishop_dark_voyager_11: -3293181195884350748
+      bishop_dark_voyager_12: -8491822611593688003
+      bishop_dark_voyager_13: -6897354756064450356
+      bishop_dark_voyager_14: 7265670451343332896
+      bishop_dark_voyager_15: 7394118200893024595
+      bishop_dark_voyager_16: 5596475899278824717
+      bishop_dark_voyager_17: -3030995249215011478
+      bishop_dark_voyager_18: -6004778469591604286
+      bishop_dark_voyager_19: -5439497895821989370
+      bishop_dark_voyager_2: -2870277470751634964
+      bishop_dark_voyager_20: -525883313190553525
+      bishop_dark_voyager_21: -9137802317689025348
+      bishop_dark_voyager_22: -7934889380053772500
+      bishop_dark_voyager_23: -4105813869681004655
+      bishop_dark_voyager_24: 6681719363077407020
+      bishop_dark_voyager_25: 5650370578170081941
+      bishop_dark_voyager_26: -73510124505255965
+      bishop_dark_voyager_27: -982269900517479500
+      bishop_dark_voyager_28: -7331774706977603710
+      bishop_dark_voyager_29: 7485200614007424557
+      bishop_dark_voyager_3: 7151323134398141624
+      bishop_dark_voyager_4: -4990305533308438310
+      bishop_dark_voyager_5: 3224128122939461097
+      bishop_dark_voyager_6: -3899034278056951738
+      bishop_dark_voyager_7: 3614716715460340110
+      bishop_dark_voyager_8: 8216266559771071851
+      bishop_dark_voyager_9: -1036811341271380467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 385676ef4a517aa4f8fe544b48f77aa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2923030051542817312
+    second: pawn_light_voyager_dither_0
+  - first:
+      213: 7443427569102185952
+    second: pawn_light_voyager_dither_1
+  - first:
+      213: -6223922069772378252
+    second: pawn_light_voyager_dither_2
+  - first:
+      213: -7641227745400493053
+    second: pawn_light_voyager_dither_3
+  - first:
+      213: -2319210615019330755
+    second: pawn_light_voyager_dither_4
+  - first:
+      213: -6137589466628153641
+    second: pawn_light_voyager_dither_5
+  - first:
+      213: 8271296143699793159
+    second: pawn_light_voyager_dither_6
+  - first:
+      213: 5267366506466180818
+    second: pawn_light_voyager_dither_7
+  - first:
+      213: 8295971277957341159
+    second: pawn_light_voyager_dither_8
+  - first:
+      213: -7649901791037101879
+    second: pawn_light_voyager_dither_9
+  - first:
+      213: -8460984026651677046
+    second: pawn_light_voyager_dither_10
+  - first:
+      213: -4789011345911286967
+    second: pawn_light_voyager_dither_11
+  - first:
+      213: -908103355010706397
+    second: pawn_light_voyager_dither_12
+  - first:
+      213: -1479222570281907420
+    second: pawn_light_voyager_dither_13
+  - first:
+      213: -1365879432117517464
+    second: pawn_light_voyager_dither_14
+  - first:
+      213: -8507833502128514470
+    second: pawn_light_voyager_dither_15
+  - first:
+      213: 4818685288509938832
+    second: pawn_light_voyager_dither_16
+  - first:
+      213: 196870327340549524
+    second: pawn_light_voyager_dither_17
+  - first:
+      213: -7767263570891819288
+    second: pawn_light_voyager_dither_18
+  - first:
+      213: -2336280579921406316
+    second: pawn_light_voyager_dither_19
+  - first:
+      213: 6187510094591849088
+    second: pawn_light_voyager_dither_20
+  - first:
+      213: -3122700833709326042
+    second: pawn_light_voyager_dither_21
+  - first:
+      213: -492029142020322354
+    second: pawn_light_voyager_dither_22
+  - first:
+      213: -630712195073026936
+    second: pawn_light_voyager_dither_23
+  - first:
+      213: 3803592531454591890
+    second: pawn_light_voyager_dither_24
+  - first:
+      213: -1628998977692281262
+    second: pawn_light_voyager_dither_25
+  - first:
+      213: 9089503804779593480
+    second: pawn_light_voyager_dither_26
+  - first:
+      213: -3363635530747293814
+    second: pawn_light_voyager_dither_27
+  - first:
+      213: -4038125207171743791
+    second: pawn_light_voyager_dither_28
+  - first:
+      213: 4650914490538384287
+    second: pawn_light_voyager_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5affda7af4f67d0800000000000000
+      internalID: -2923030051542817312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56fa7efed5c4760800000000000000
+      internalID: 7443427569102185952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fd0817adf20a9a0800000000000000
+      internalID: -6223922069772378252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c6b8bb9d7e4f590800000000000000
+      internalID: -7641227745400493053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33257cbb3280dfd0800000000000000
+      internalID: -2319210615019330755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de137006e6e2daa0800000000000000
+      internalID: -6137589466628153641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705d84df40c89c270800000000000000
+      internalID: 8271296143699793159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 145
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def4bf0ee1791940800000000000000
+      internalID: 5267366506466180818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9d716ce5312370800000000000000
+      internalID: 8295971277957341159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8eb9a1ad616d590800000000000000
+      internalID: -7649901791037101879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2c212bdb849a80800000000000000
+      internalID: -8460984026651677046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94374addd830a8db0800000000000000
+      internalID: -4789011345911286967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3241f395fc4c563f0800000000000000
+      internalID: -908103355010706397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b4b9ad8eeb87be0800000000000000
+      internalID: -1479222570281907420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638f9aa4eb6b0de0800000000000000
+      internalID: -1365879432117517464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 97
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5679918a1ee980800000000000000
+      internalID: -8507833502128514470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c190a4db86fd240800000000000000
+      internalID: 4818685288509938832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495c2f7058c6bb200800000000000000
+      internalID: 196870327340549524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6392c5fe2253490800000000000000
+      internalID: -7767263570891819288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4961422d03dd39fd0800000000000000
+      internalID: -2336280579921406316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0827a40f5a37ed550800000000000000
+      internalID: 6187510094591849088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62180f2f220f9a4d0800000000000000
+      internalID: -3122700833709326042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0dba2a16fb29f0800000000000000
+      internalID: -492029142020322354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 49
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8845a29a9924f37f0800000000000000
+      internalID: -630712195073026936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2930eab414319c430800000000000000
+      internalID: 3803592531454591890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565d238f02a469e0800000000000000
+      internalID: -1628998977692281262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff27c5d87642e70800000000000000
+      internalID: 9089503804779593480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fcceb5e47f151d0800000000000000
+      internalID: -3363635530747293814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3afbd482b5f7c0800000000000000
+      internalID: -4038125207171743791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_voyager_dither_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd149661e5b8040800000000000000
+      internalID: 4650914490538384287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pawn_light_voyager_dither_0: -2923030051542817312
+      pawn_light_voyager_dither_1: 7443427569102185952
+      pawn_light_voyager_dither_10: -8460984026651677046
+      pawn_light_voyager_dither_11: -4789011345911286967
+      pawn_light_voyager_dither_12: -908103355010706397
+      pawn_light_voyager_dither_13: -1479222570281907420
+      pawn_light_voyager_dither_14: -1365879432117517464
+      pawn_light_voyager_dither_15: -8507833502128514470
+      pawn_light_voyager_dither_16: 4818685288509938832
+      pawn_light_voyager_dither_17: 196870327340549524
+      pawn_light_voyager_dither_18: -7767263570891819288
+      pawn_light_voyager_dither_19: -2336280579921406316
+      pawn_light_voyager_dither_2: -6223922069772378252
+      pawn_light_voyager_dither_20: 6187510094591849088
+      pawn_light_voyager_dither_21: -3122700833709326042
+      pawn_light_voyager_dither_22: -492029142020322354
+      pawn_light_voyager_dither_23: -630712195073026936
+      pawn_light_voyager_dither_24: 3803592531454591890
+      pawn_light_voyager_dither_25: -1628998977692281262
+      pawn_light_voyager_dither_26: 9089503804779593480
+      pawn_light_voyager_dither_27: -3363635530747293814
+      pawn_light_voyager_dither_28: -4038125207171743791
+      pawn_light_voyager_dither_29: 4650914490538384287
+      pawn_light_voyager_dither_3: -7641227745400493053
+      pawn_light_voyager_dither_4: -2319210615019330755
+      pawn_light_voyager_dither_5: -6137589466628153641
+      pawn_light_voyager_dither_6: 8271296143699793159
+      pawn_light_voyager_dither_7: 5267366506466180818
+      pawn_light_voyager_dither_8: 8295971277957341159
+      pawn_light_voyager_dither_9: -7649901791037101879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

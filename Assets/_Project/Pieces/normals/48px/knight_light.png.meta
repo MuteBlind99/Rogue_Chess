@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: c92e67fad151beb48a3a5cdf7bfcbb01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8525337123884715888
+    second: knight_light_0
+  - first:
+      213: -6760620363643037273
+    second: knight_light_1
+  - first:
+      213: -5063286039288217027
+    second: knight_light_2
+  - first:
+      213: 3039278683187851624
+    second: knight_light_3
+  - first:
+      213: -2485370033367122835
+    second: knight_light_4
+  - first:
+      213: 2941570454373084809
+    second: knight_light_5
+  - first:
+      213: 892549765384418723
+    second: knight_light_6
+  - first:
+      213: -7188987746673276931
+    second: knight_light_7
+  - first:
+      213: -8712195467077234907
+    second: knight_light_8
+  - first:
+      213: -8034392031696816270
+    second: knight_light_9
+  - first:
+      213: -7163950149893435830
+    second: knight_light_10
+  - first:
+      213: 7771879881595224567
+    second: knight_light_11
+  - first:
+      213: 5699749437541601058
+    second: knight_light_12
+  - first:
+      213: 2544460326808921946
+    second: knight_light_13
+  - first:
+      213: 7463591281039188288
+    second: knight_light_14
+  - first:
+      213: -5533148784919662429
+    second: knight_light_15
+  - first:
+      213: -3463919687755908679
+    second: knight_light_16
+  - first:
+      213: 4391822841055366666
+    second: knight_light_17
+  - first:
+      213: 5494755737314152810
+    second: knight_light_18
+  - first:
+      213: 2444946829962081775
+    second: knight_light_19
+  - first:
+      213: 5696542405043652763
+    second: knight_light_20
+  - first:
+      213: 6628097339708233474
+    second: knight_light_21
+  - first:
+      213: -1407680922100701818
+    second: knight_light_22
+  - first:
+      213: 8249401490342797252
+    second: knight_light_23
+  - first:
+      213: 4285706303309141334
+    second: knight_light_24
+  - first:
+      213: -9080393237161136303
+    second: knight_light_25
+  - first:
+      213: -9205896442132809468
+    second: knight_light_26
+  - first:
+      213: 3182148000307666994
+    second: knight_light_27
+  - first:
+      213: 936112474564248499
+    second: knight_light_28
+  - first:
+      213: 8986070255397508617
+    second: knight_light_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_light_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f499be1f4105670800000000000000
+      internalID: 8525337123884715888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9d8cb39937d22a0800000000000000
+      internalID: -6760620363643037273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 146
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3208087c289bb9b0800000000000000
+      internalID: -5063286039288217027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86134dc0cdfad2a20800000000000000
+      internalID: 3039278683187851624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 146
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c70c96f11328dd0800000000000000
+      internalID: -2485370033367122835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 146
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e21be3ebe82d820800000000000000
+      internalID: 2941570454373084809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5b81e5849f26c00800000000000000
+      internalID: 892549765384418723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 146
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df747e8bbb59b3c90800000000000000
+      internalID: -7188987746673276931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fc713c160181780800000000000000
+      internalID: -8712195467077234907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2777b74e30b108090800000000000000
+      internalID: -8034392031696816270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ecefe7b49849c90800000000000000
+      internalID: -7163950149893435830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f10d7b33934bdb60800000000000000
+      internalID: 7771879881595224567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f46653ae3991f40800000000000000
+      internalID: 5699749437541601058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572584af2dbf4320800000000000000
+      internalID: 2544460326808921946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0412b0fe9b0049760800000000000000
+      internalID: 7463591281039188288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ba79fe7e4633b0800000000000000
+      internalID: -5533148784919662429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b3d8856fadefc0800000000000000
+      internalID: -3463919687755908679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4d85ea93e2fc30800000000000000
+      internalID: 4391822841055366666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61562a0b3b414c40800000000000000
+      internalID: 5494755737314152810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57b9e10323ee120800000000000000
+      internalID: 2444946829962081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988394c22f2e0f40800000000000000
+      internalID: 5696542405043652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207550ec96bbbfb50800000000000000
+      internalID: 6628097339708233474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685e719d8a9e67ce0800000000000000
+      internalID: -1407680922100701818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 50
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd571c2f2cb7270800000000000000
+      internalID: 8249401490342797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d46c1d23e97b30800000000000000
+      internalID: 4285706303309141334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa626f576fbf180800000000000000
+      internalID: -9080393237161136303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40934a7f5f51e3080800000000000000
+      internalID: -9205896442132809468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ee0d1fb2492c20800000000000000
+      internalID: 3182148000307666994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c63cf55dbdfc00800000000000000
+      internalID: 936112474564248499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9061cab794fe4bc70800000000000000
+      internalID: 8986070255397508617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_light_0: 8525337123884715888
+      knight_light_1: -6760620363643037273
+      knight_light_10: -7163950149893435830
+      knight_light_11: 7771879881595224567
+      knight_light_12: 5699749437541601058
+      knight_light_13: 2544460326808921946
+      knight_light_14: 7463591281039188288
+      knight_light_15: -5533148784919662429
+      knight_light_16: -3463919687755908679
+      knight_light_17: 4391822841055366666
+      knight_light_18: 5494755737314152810
+      knight_light_19: 2444946829962081775
+      knight_light_2: -5063286039288217027
+      knight_light_20: 5696542405043652763
+      knight_light_21: 6628097339708233474
+      knight_light_22: -1407680922100701818
+      knight_light_23: 8249401490342797252
+      knight_light_24: 4285706303309141334
+      knight_light_25: -9080393237161136303
+      knight_light_26: -9205896442132809468
+      knight_light_27: 3182148000307666994
+      knight_light_28: 936112474564248499
+      knight_light_29: 8986070255397508617
+      knight_light_3: 3039278683187851624
+      knight_light_4: -2485370033367122835
+      knight_light_5: 2941570454373084809
+      knight_light_6: 892549765384418723
+      knight_light_7: -7188987746673276931
+      knight_light_8: -8712195467077234907
+      knight_light_9: -8034392031696816270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

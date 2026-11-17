@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: a4cb06f7b18d6844c82ff176b96d06dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4218716536428844001
+    second: king_dark_16-bit_0
+  - first:
+      213: 7983902638728672485
+    second: king_dark_16-bit_1
+  - first:
+      213: 3250213340961184601
+    second: king_dark_16-bit_2
+  - first:
+      213: -5438062121291075396
+    second: king_dark_16-bit_3
+  - first:
+      213: 6711113576582443329
+    second: king_dark_16-bit_4
+  - first:
+      213: -3621733701637529310
+    second: king_dark_16-bit_5
+  - first:
+      213: -5695654713979485783
+    second: king_dark_16-bit_6
+  - first:
+      213: 2346272178474523847
+    second: king_dark_16-bit_7
+  - first:
+      213: 1232412137480451941
+    second: king_dark_16-bit_8
+  - first:
+      213: 7677620830387489823
+    second: king_dark_16-bit_9
+  - first:
+      213: 8389811163199636200
+    second: king_dark_16-bit_10
+  - first:
+      213: -2640356858347531814
+    second: king_dark_16-bit_11
+  - first:
+      213: 8955364398550852876
+    second: king_dark_16-bit_12
+  - first:
+      213: -6728634540970576130
+    second: king_dark_16-bit_13
+  - first:
+      213: 7665775510064874747
+    second: king_dark_16-bit_14
+  - first:
+      213: -4482788620287937421
+    second: king_dark_16-bit_15
+  - first:
+      213: 7629972492256968772
+    second: king_dark_16-bit_16
+  - first:
+      213: -567883436950092670
+    second: king_dark_16-bit_17
+  - first:
+      213: 352603503356441225
+    second: king_dark_16-bit_18
+  - first:
+      213: -1588424426009322217
+    second: king_dark_16-bit_19
+  - first:
+      213: 1918549997185941905
+    second: king_dark_16-bit_20
+  - first:
+      213: 2490006964337526072
+    second: king_dark_16-bit_21
+  - first:
+      213: -2641526557464185175
+    second: king_dark_16-bit_22
+  - first:
+      213: 6126707397454757134
+    second: king_dark_16-bit_23
+  - first:
+      213: 6247401579689453979
+    second: king_dark_16-bit_24
+  - first:
+      213: 4105259598773673915
+    second: king_dark_16-bit_25
+  - first:
+      213: -4994128415621654911
+    second: king_dark_16-bit_26
+  - first:
+      213: 2119108879032925817
+    second: king_dark_16-bit_27
+  - first:
+      213: -3163167871904159511
+    second: king_dark_16-bit_28
+  - first:
+      213: -7109955463316745164
+    second: king_dark_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: king_dark_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ca71e69ab1475c0800000000000000
+      internalID: -4218716536428844001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f9be36258cce60800000000000000
+      internalID: 7983902638728672485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b1a3030d31b1d20800000000000000
+      internalID: 3250213340961184601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb030f1105f1884b0800000000000000
+      internalID: -5438062121291075396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417f7bad3aa22d50800000000000000
+      internalID: 6711113576582443329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221a5da13640dbdc0800000000000000
+      internalID: -3621733701637529310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a149f9e638f4f0b0800000000000000
+      internalID: -5695654713979485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc1b508d12af8020800000000000000
+      internalID: 2346272178474523847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f6673f486a1110800000000000000
+      internalID: 1232412137480451941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc26ba7736c8a60800000000000000
+      internalID: 7677620830387489823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e20f134dc89e6470800000000000000
+      internalID: 8389811163199636200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1dde13d619b5bd0800000000000000
+      internalID: -2640356858347531814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05adc11978d74c70800000000000000
+      internalID: 8955364398550852876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6760ae8861f92a0800000000000000
+      internalID: -6728634540970576130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44e4d163e426a60800000000000000
+      internalID: 7665775510064874747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f29c208fe9c1c0800000000000000
+      internalID: -4482788620287937421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408afe6e8b13e960800000000000000
+      internalID: 7629972492256968772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28403cad5097e18f0800000000000000
+      internalID: -567883436950092670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9827e14a403b4e400800000000000000
+      internalID: 352603503356441225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d192f7668c4f9e0800000000000000
+      internalID: -1588424426009322217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191481abe0f00aa10800000000000000
+      internalID: 1918549997185941905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835469534284e8220800000000000000
+      internalID: 2490006964337526072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a636956799675bd0800000000000000
+      internalID: -2641526557464185175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d7c04daef660550800000000000000
+      internalID: 6126707397454757134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99aa96f2aa33b650800000000000000
+      internalID: 6247401579689453979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfdaafbadfc8f830800000000000000
+      internalID: 4105259598773673915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186df208aaa41bab0800000000000000
+      internalID: -4994128415621654911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e32274c46986d10800000000000000
+      internalID: 2119108879032925817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86936649b2a14d0800000000000000
+      internalID: -3163167871904159511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43458202d2d545d90800000000000000
+      internalID: -7109955463316745164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      king_dark_16-bit_0: -4218716536428844001
+      king_dark_16-bit_1: 7983902638728672485
+      king_dark_16-bit_10: 8389811163199636200
+      king_dark_16-bit_11: -2640356858347531814
+      king_dark_16-bit_12: 8955364398550852876
+      king_dark_16-bit_13: -6728634540970576130
+      king_dark_16-bit_14: 7665775510064874747
+      king_dark_16-bit_15: -4482788620287937421
+      king_dark_16-bit_16: 7629972492256968772
+      king_dark_16-bit_17: -567883436950092670
+      king_dark_16-bit_18: 352603503356441225
+      king_dark_16-bit_19: -1588424426009322217
+      king_dark_16-bit_2: 3250213340961184601
+      king_dark_16-bit_20: 1918549997185941905
+      king_dark_16-bit_21: 2490006964337526072
+      king_dark_16-bit_22: -2641526557464185175
+      king_dark_16-bit_23: 6126707397454757134
+      king_dark_16-bit_24: 6247401579689453979
+      king_dark_16-bit_25: 4105259598773673915
+      king_dark_16-bit_26: -4994128415621654911
+      king_dark_16-bit_27: 2119108879032925817
+      king_dark_16-bit_28: -3163167871904159511
+      king_dark_16-bit_29: -7109955463316745164
+      king_dark_16-bit_3: -5438062121291075396
+      king_dark_16-bit_4: 6711113576582443329
+      king_dark_16-bit_5: -3621733701637529310
+      king_dark_16-bit_6: -5695654713979485783
+      king_dark_16-bit_7: 2346272178474523847
+      king_dark_16-bit_8: 1232412137480451941
+      king_dark_16-bit_9: 7677620830387489823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

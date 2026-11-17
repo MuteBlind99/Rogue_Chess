@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 4e633c204dc6b3c4c9dfb81f7daabcba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8148084551174623177
+    second: king_dark_16-bit_dither_0
+  - first:
+      213: -597996565969091905
+    second: king_dark_16-bit_dither_1
+  - first:
+      213: 6474128958956348024
+    second: king_dark_16-bit_dither_2
+  - first:
+      213: 4919788085536264495
+    second: king_dark_16-bit_dither_3
+  - first:
+      213: -6844233291879478586
+    second: king_dark_16-bit_dither_4
+  - first:
+      213: 2882914734365026602
+    second: king_dark_16-bit_dither_5
+  - first:
+      213: -8195118388334023891
+    second: king_dark_16-bit_dither_6
+  - first:
+      213: -2642473396137579863
+    second: king_dark_16-bit_dither_7
+  - first:
+      213: 2644845339028100216
+    second: king_dark_16-bit_dither_8
+  - first:
+      213: -5441448060498442577
+    second: king_dark_16-bit_dither_9
+  - first:
+      213: 3418152358821606154
+    second: king_dark_16-bit_dither_10
+  - first:
+      213: -3322529418873800730
+    second: king_dark_16-bit_dither_11
+  - first:
+      213: 1043160295396063777
+    second: king_dark_16-bit_dither_12
+  - first:
+      213: 9032720379594570894
+    second: king_dark_16-bit_dither_13
+  - first:
+      213: 802734481653950497
+    second: king_dark_16-bit_dither_14
+  - first:
+      213: -2201814876490516411
+    second: king_dark_16-bit_dither_15
+  - first:
+      213: -2033588391188433765
+    second: king_dark_16-bit_dither_16
+  - first:
+      213: 4021283402411165299
+    second: king_dark_16-bit_dither_17
+  - first:
+      213: 7996351224499579578
+    second: king_dark_16-bit_dither_18
+  - first:
+      213: 4158911851971882652
+    second: king_dark_16-bit_dither_19
+  - first:
+      213: -7790398230368215173
+    second: king_dark_16-bit_dither_20
+  - first:
+      213: -6309084249120711161
+    second: king_dark_16-bit_dither_21
+  - first:
+      213: 3215622541437187006
+    second: king_dark_16-bit_dither_22
+  - first:
+      213: -751429345583885305
+    second: king_dark_16-bit_dither_23
+  - first:
+      213: 6200392315054034211
+    second: king_dark_16-bit_dither_24
+  - first:
+      213: -5244424852251843104
+    second: king_dark_16-bit_dither_25
+  - first:
+      213: -3341448925493821675
+    second: king_dark_16-bit_dither_26
+  - first:
+      213: 7925019384196089768
+    second: king_dark_16-bit_dither_27
+  - first:
+      213: -2412831803207235034
+    second: king_dark_16-bit_dither_28
+  - first:
+      213: -2147465584779779333
+    second: king_dark_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf8c989abfc31170800000000000000
+      internalID: 8148084551174623177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb24284aa4d73b7f0800000000000000
+      internalID: -597996565969091905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a9ac9cf9b8d950800000000000000
+      internalID: 6474128958956348024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2196989239964440800000000000000
+      internalID: 4919788085536264495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0f9555166401a0800000000000000
+      internalID: -6844233291879478586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2921933dab220820800000000000000
+      internalID: 2882914734365026602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b2413de37154e80800000000000000
+      internalID: -8195118388334023891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaacc6527c045bd0800000000000000
+      internalID: -2642473396137579863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8741e96a2d064b420800000000000000
+      internalID: 2644845339028100216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6804aa1d71c74b0800000000000000
+      internalID: -5441448060498442577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03b9bfc577bf6f20800000000000000
+      internalID: 3418152358821606154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fd38d81104e1d0800000000000000
+      internalID: -3322529418873800730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12abfd203cc0a7e00800000000000000
+      internalID: 1043160295396063777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c7a2de35baa5d70800000000000000
+      internalID: 9032720379594570894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e0fb02c2e32b00800000000000000
+      internalID: 802734481653950497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548bc9919059171e0800000000000000
+      internalID: -2201814876490516411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fad3f12e37c3e0800000000000000
+      internalID: -2033588391188433765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37644e5e2f77ec730800000000000000
+      internalID: 4021283402411165299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaae8b721fb8fe60800000000000000
+      internalID: 7996351224499579578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e22f46b4c67b930800000000000000
+      internalID: 4158911851971882652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1214b512f2e390800000000000000
+      internalID: -7790398230368215173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed5296d41a178a0800000000000000
+      internalID: -6309084249120711161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33a121aaf20ac20800000000000000
+      internalID: 3215622541437187006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7041baecdf26295f0800000000000000
+      internalID: -751429345583885305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d8bde95f73c0650800000000000000
+      internalID: 6200392315054034211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56c4e026f0837b0800000000000000
+      internalID: -5244424852251843104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f74d0f7e9c0a1d0800000000000000
+      internalID: -3341448925493821675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c71134235bfd60800000000000000
+      internalID: 7925019384196089768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a411b3246e38ed0800000000000000
+      internalID: -2412831803207235034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_dark_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf223dbad6ba232e0800000000000000
+      internalID: -2147465584779779333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      king_dark_16-bit_dither_0: 8148084551174623177
+      king_dark_16-bit_dither_1: -597996565969091905
+      king_dark_16-bit_dither_10: 3418152358821606154
+      king_dark_16-bit_dither_11: -3322529418873800730
+      king_dark_16-bit_dither_12: 1043160295396063777
+      king_dark_16-bit_dither_13: 9032720379594570894
+      king_dark_16-bit_dither_14: 802734481653950497
+      king_dark_16-bit_dither_15: -2201814876490516411
+      king_dark_16-bit_dither_16: -2033588391188433765
+      king_dark_16-bit_dither_17: 4021283402411165299
+      king_dark_16-bit_dither_18: 7996351224499579578
+      king_dark_16-bit_dither_19: 4158911851971882652
+      king_dark_16-bit_dither_2: 6474128958956348024
+      king_dark_16-bit_dither_20: -7790398230368215173
+      king_dark_16-bit_dither_21: -6309084249120711161
+      king_dark_16-bit_dither_22: 3215622541437187006
+      king_dark_16-bit_dither_23: -751429345583885305
+      king_dark_16-bit_dither_24: 6200392315054034211
+      king_dark_16-bit_dither_25: -5244424852251843104
+      king_dark_16-bit_dither_26: -3341448925493821675
+      king_dark_16-bit_dither_27: 7925019384196089768
+      king_dark_16-bit_dither_28: -2412831803207235034
+      king_dark_16-bit_dither_29: -2147465584779779333
+      king_dark_16-bit_dither_3: 4919788085536264495
+      king_dark_16-bit_dither_4: -6844233291879478586
+      king_dark_16-bit_dither_5: 2882914734365026602
+      king_dark_16-bit_dither_6: -8195118388334023891
+      king_dark_16-bit_dither_7: -2642473396137579863
+      king_dark_16-bit_dither_8: 2644845339028100216
+      king_dark_16-bit_dither_9: -5441448060498442577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: cd558a7d5a1f51d40b355bf2787ac07f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 151559796432998755
+    second: rook_dark_0
+  - first:
+      213: -4748784643231788795
+    second: rook_dark_1
+  - first:
+      213: 1422409118567382715
+    second: rook_dark_2
+  - first:
+      213: 4866533861833819164
+    second: rook_dark_3
+  - first:
+      213: -503797104603071494
+    second: rook_dark_4
+  - first:
+      213: -4751095942616001962
+    second: rook_dark_5
+  - first:
+      213: 5596097993426828945
+    second: rook_dark_6
+  - first:
+      213: 6307154896088289572
+    second: rook_dark_7
+  - first:
+      213: 6297222150442505955
+    second: rook_dark_8
+  - first:
+      213: -1685487507383487886
+    second: rook_dark_9
+  - first:
+      213: -629520728075224580
+    second: rook_dark_10
+  - first:
+      213: -505694172453981551
+    second: rook_dark_11
+  - first:
+      213: 4262991071865863766
+    second: rook_dark_12
+  - first:
+      213: -1096103367182590270
+    second: rook_dark_13
+  - first:
+      213: 4299273912755170690
+    second: rook_dark_14
+  - first:
+      213: -5697713857533667387
+    second: rook_dark_15
+  - first:
+      213: 7448437831507224574
+    second: rook_dark_16
+  - first:
+      213: 3739768634545120936
+    second: rook_dark_17
+  - first:
+      213: -8770874138321205920
+    second: rook_dark_18
+  - first:
+      213: 8530652064398394694
+    second: rook_dark_19
+  - first:
+      213: -3642077126611459719
+    second: rook_dark_20
+  - first:
+      213: -6115841857939317801
+    second: rook_dark_21
+  - first:
+      213: -3625049353635530883
+    second: rook_dark_22
+  - first:
+      213: -1357430179563321075
+    second: rook_dark_23
+  - first:
+      213: 3508054226729116541
+    second: rook_dark_24
+  - first:
+      213: 2930426688707722031
+    second: rook_dark_25
+  - first:
+      213: -4385825824057075670
+    second: rook_dark_26
+  - first:
+      213: -4513439721191767025
+    second: rook_dark_27
+  - first:
+      213: -7816136784716699716
+    second: rook_dark_28
+  - first:
+      213: -2443598829753787728
+    second: rook_dark_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rook_dark_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619e94f4d27a1200800000000000000
+      internalID: 151559796432998755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d651f68de81eb0800000000000000
+      internalID: -4748784643231788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3c7d9e896db310800000000000000
+      internalID: 1422409118567382715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c30a63c6698340800000000000000
+      internalID: 4866533861833819164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb734dd3372209f0800000000000000
+      internalID: -503797104603071494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d29e9967b01eb0800000000000000
+      internalID: -4751095942616001962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e7b72c97559ad40800000000000000
+      internalID: 5596097993426828945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 292
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42155b416f3878750800000000000000
+      internalID: 6307154896088289572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6d8d48e2a346750800000000000000
+      internalID: 6297222150442505955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2727c09ca02fb98e0800000000000000
+      internalID: -1685487507383487886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b450bb3e7347f0800000000000000
+      internalID: -629520728075224580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19235e554d96bf8f0800000000000000
+      internalID: -505694172453981551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ef9372bcf292b30800000000000000
+      internalID: 4262991071865863766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ced8f18bcbd9c0f0800000000000000
+      internalID: -1096103367182590270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d20e958d61aab30800000000000000
+      internalID: 4299273912755170690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_15
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 196
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c792e13f67ade0b0800000000000000
+      internalID: -5697713857533667387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a1968eba2e5760800000000000000
+      internalID: 7448437831507224574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6a53c42c356e330800000000000000
+      internalID: 3739768634545120936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06544b7f078974680800000000000000
+      internalID: -8770874138321205920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6454be0fad6f26670800000000000000
+      internalID: 8530652064398394694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971afbf562eb47dc0800000000000000
+      internalID: -3642077126611459719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbdf0bbb3a202ba0800000000000000
+      internalID: -6115841857939317801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777b47b1dc31bdc0800000000000000
+      internalID: -3625049353635530883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_23
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 100
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09cbb39170792de0800000000000000
+      internalID: -1357430179563321075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d732ff49bbc1fa030800000000000000
+      internalID: 3508054226729116541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b7fbc1c87faa820800000000000000
+      internalID: 2930426688707722031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d75e66aa6223c0800000000000000
+      internalID: -4385825824057075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040a3f9c7a0d51c0800000000000000
+      internalID: -4513439721191767025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7e8178101878390800000000000000
+      internalID: -7816136784716699716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_29
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba17f2afc7961ed0800000000000000
+      internalID: -2443598829753787728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rook_dark_0: 151559796432998755
+      rook_dark_1: -4748784643231788795
+      rook_dark_10: -629520728075224580
+      rook_dark_11: -505694172453981551
+      rook_dark_12: 4262991071865863766
+      rook_dark_13: -1096103367182590270
+      rook_dark_14: 4299273912755170690
+      rook_dark_15: -5697713857533667387
+      rook_dark_16: 7448437831507224574
+      rook_dark_17: 3739768634545120936
+      rook_dark_18: -8770874138321205920
+      rook_dark_19: 8530652064398394694
+      rook_dark_2: 1422409118567382715
+      rook_dark_20: -3642077126611459719
+      rook_dark_21: -6115841857939317801
+      rook_dark_22: -3625049353635530883
+      rook_dark_23: -1357430179563321075
+      rook_dark_24: 3508054226729116541
+      rook_dark_25: 2930426688707722031
+      rook_dark_26: -4385825824057075670
+      rook_dark_27: -4513439721191767025
+      rook_dark_28: -7816136784716699716
+      rook_dark_29: -2443598829753787728
+      rook_dark_3: 4866533861833819164
+      rook_dark_4: -503797104603071494
+      rook_dark_5: -4751095942616001962
+      rook_dark_6: 5596097993426828945
+      rook_dark_7: 6307154896088289572
+      rook_dark_8: 6297222150442505955
+      rook_dark_9: -1685487507383487886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

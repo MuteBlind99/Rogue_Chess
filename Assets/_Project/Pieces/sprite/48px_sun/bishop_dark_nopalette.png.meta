@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 09a692f1d9d59e9459e8db01b157c5b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3929429626009293347
+    second: bishop_dark_nopalette_0
+  - first:
+      213: 4183370107892424623
+    second: bishop_dark_nopalette_1
+  - first:
+      213: -5333066577606860989
+    second: bishop_dark_nopalette_2
+  - first:
+      213: 2347574729606824244
+    second: bishop_dark_nopalette_3
+  - first:
+      213: -735457586790720698
+    second: bishop_dark_nopalette_4
+  - first:
+      213: -8632109911527252033
+    second: bishop_dark_nopalette_5
+  - first:
+      213: 5800578769148676618
+    second: bishop_dark_nopalette_6
+  - first:
+      213: -3053310241684178474
+    second: bishop_dark_nopalette_7
+  - first:
+      213: -4486362098650983592
+    second: bishop_dark_nopalette_8
+  - first:
+      213: 7507229029641089486
+    second: bishop_dark_nopalette_9
+  - first:
+      213: 3840709177252636747
+    second: bishop_dark_nopalette_10
+  - first:
+      213: -3933223750213291777
+    second: bishop_dark_nopalette_11
+  - first:
+      213: -8325998887236338044
+    second: bishop_dark_nopalette_12
+  - first:
+      213: 8036654204216661002
+    second: bishop_dark_nopalette_13
+  - first:
+      213: -4404053496907640847
+    second: bishop_dark_nopalette_14
+  - first:
+      213: 7426342535434188196
+    second: bishop_dark_nopalette_15
+  - first:
+      213: -8693162422797827717
+    second: bishop_dark_nopalette_16
+  - first:
+      213: -5221732336126388468
+    second: bishop_dark_nopalette_17
+  - first:
+      213: -8306014305098666204
+    second: bishop_dark_nopalette_18
+  - first:
+      213: 709577519036849401
+    second: bishop_dark_nopalette_19
+  - first:
+      213: 4591706496132708447
+    second: bishop_dark_nopalette_20
+  - first:
+      213: -2023668282669392162
+    second: bishop_dark_nopalette_21
+  - first:
+      213: 7749901314947673756
+    second: bishop_dark_nopalette_22
+  - first:
+      213: 845501846861039910
+    second: bishop_dark_nopalette_23
+  - first:
+      213: 8333058726342840609
+    second: bishop_dark_nopalette_24
+  - first:
+      213: -1841467412128634866
+    second: bishop_dark_nopalette_25
+  - first:
+      213: -4795925891608181386
+    second: bishop_dark_nopalette_26
+  - first:
+      213: 2628308440636229323
+    second: bishop_dark_nopalette_27
+  - first:
+      213: 6101239962833970533
+    second: bishop_dark_nopalette_28
+  - first:
+      213: 2178457354661329636
+    second: bishop_dark_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3221e240d63288630800000000000000
+      internalID: 3929429626009293347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5aecd2f05e0a30800000000000000
+      internalID: 4183370107892424623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1c3614342df5b0800000000000000
+      internalID: -5333066577606860989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43106e157c2449020800000000000000
+      internalID: 2347574729606824244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b19ffa8312bc5f0800000000000000
+      internalID: -735457586790720698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1a4535c5943880800000000000000
+      internalID: -8632109911527252033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a87c268abcf7050800000000000000
+      internalID: 5800578769148676618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 145
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93a57238670a5d0800000000000000
+      internalID: -3053310241684178474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d128e07d3db1c0800000000000000
+      internalID: -4486362098650983592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f14707090f2860800000000000000
+      internalID: 7507229029641089486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e9b3d5a0fc4530800000000000000
+      internalID: 3840709177252636747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0386a96d16a69c0800000000000000
+      internalID: -3933223750213291777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48efaf5002c147c80800000000000000
+      internalID: -8325998887236338044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04dbf03b6ee78f60800000000000000
+      internalID: 8036654204216661002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc001ada8a1e2c0800000000000000
+      internalID: -4404053496907640847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5bde4803baf0760800000000000000
+      internalID: 7426342535434188196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b718c56b5deab5780800000000000000
+      internalID: -8693162422797827717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0714013b1ea887b0800000000000000
+      internalID: -5221732336126388468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fe7452ffb1bbc80800000000000000
+      internalID: -8306014305098666204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc5bca7efce8d900800000000000000
+      internalID: 709577519036849401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f7d6fab409bf30800000000000000
+      internalID: 4591706496132708447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede14443b6c7ae3e0800000000000000
+      internalID: -2023668282669392162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee9c96f2e2d8b60800000000000000
+      internalID: 7749901314947673756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629c6173373dbbb00800000000000000
+      internalID: 845501846861039910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121522cd2c8f4a370800000000000000
+      internalID: 8333058726342840609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086d9a252bc176e0800000000000000
+      internalID: -1841467412128634866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675889dbfc2717db0800000000000000
+      internalID: -4795925891608181386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68844f990a97420800000000000000
+      internalID: 2628308440636229323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e222ab65fba450800000000000000
+      internalID: 6101239962833970533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bishop_dark_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eafcee0c6f6b3e10800000000000000
+      internalID: 2178457354661329636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bishop_dark_nopalette_0: 3929429626009293347
+      bishop_dark_nopalette_1: 4183370107892424623
+      bishop_dark_nopalette_10: 3840709177252636747
+      bishop_dark_nopalette_11: -3933223750213291777
+      bishop_dark_nopalette_12: -8325998887236338044
+      bishop_dark_nopalette_13: 8036654204216661002
+      bishop_dark_nopalette_14: -4404053496907640847
+      bishop_dark_nopalette_15: 7426342535434188196
+      bishop_dark_nopalette_16: -8693162422797827717
+      bishop_dark_nopalette_17: -5221732336126388468
+      bishop_dark_nopalette_18: -8306014305098666204
+      bishop_dark_nopalette_19: 709577519036849401
+      bishop_dark_nopalette_2: -5333066577606860989
+      bishop_dark_nopalette_20: 4591706496132708447
+      bishop_dark_nopalette_21: -2023668282669392162
+      bishop_dark_nopalette_22: 7749901314947673756
+      bishop_dark_nopalette_23: 845501846861039910
+      bishop_dark_nopalette_24: 8333058726342840609
+      bishop_dark_nopalette_25: -1841467412128634866
+      bishop_dark_nopalette_26: -4795925891608181386
+      bishop_dark_nopalette_27: 2628308440636229323
+      bishop_dark_nopalette_28: 6101239962833970533
+      bishop_dark_nopalette_29: 2178457354661329636
+      bishop_dark_nopalette_3: 2347574729606824244
+      bishop_dark_nopalette_4: -735457586790720698
+      bishop_dark_nopalette_5: -8632109911527252033
+      bishop_dark_nopalette_6: 5800578769148676618
+      bishop_dark_nopalette_7: -3053310241684178474
+      bishop_dark_nopalette_8: -4486362098650983592
+      bishop_dark_nopalette_9: 7507229029641089486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

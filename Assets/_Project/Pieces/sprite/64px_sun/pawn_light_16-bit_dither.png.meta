@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: ca6bae6e4a9447d44bfe62d102757dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 632207111876201531
+    second: pawn_light_16-bit_dither_0
+  - first:
+      213: -9011663686217232124
+    second: pawn_light_16-bit_dither_1
+  - first:
+      213: 5697773855009563416
+    second: pawn_light_16-bit_dither_2
+  - first:
+      213: -2695477770211238079
+    second: pawn_light_16-bit_dither_3
+  - first:
+      213: -5672424292195401928
+    second: pawn_light_16-bit_dither_4
+  - first:
+      213: 6955836896400268343
+    second: pawn_light_16-bit_dither_5
+  - first:
+      213: -5308438996879703038
+    second: pawn_light_16-bit_dither_6
+  - first:
+      213: 172335646841664634
+    second: pawn_light_16-bit_dither_7
+  - first:
+      213: 3981397336694879907
+    second: pawn_light_16-bit_dither_8
+  - first:
+      213: 2634043411709699589
+    second: pawn_light_16-bit_dither_9
+  - first:
+      213: 5938298543732264443
+    second: pawn_light_16-bit_dither_10
+  - first:
+      213: 5601169168843152261
+    second: pawn_light_16-bit_dither_11
+  - first:
+      213: 3200895300282193601
+    second: pawn_light_16-bit_dither_12
+  - first:
+      213: -1425601326253048056
+    second: pawn_light_16-bit_dither_13
+  - first:
+      213: -8454637074846412759
+    second: pawn_light_16-bit_dither_14
+  - first:
+      213: 9011061029893725400
+    second: pawn_light_16-bit_dither_15
+  - first:
+      213: 9102469451903015547
+    second: pawn_light_16-bit_dither_16
+  - first:
+      213: 5717354701878917164
+    second: pawn_light_16-bit_dither_17
+  - first:
+      213: -3807742949653862437
+    second: pawn_light_16-bit_dither_18
+  - first:
+      213: -3691895221830265357
+    second: pawn_light_16-bit_dither_19
+  - first:
+      213: -592349121770975487
+    second: pawn_light_16-bit_dither_20
+  - first:
+      213: 7692543719333980654
+    second: pawn_light_16-bit_dither_21
+  - first:
+      213: 5362327735751549957
+    second: pawn_light_16-bit_dither_22
+  - first:
+      213: 5026256575752605534
+    second: pawn_light_16-bit_dither_23
+  - first:
+      213: 8811253164058244665
+    second: pawn_light_16-bit_dither_24
+  - first:
+      213: -2231005491808680485
+    second: pawn_light_16-bit_dither_25
+  - first:
+      213: 8852484811439492079
+    second: pawn_light_16-bit_dither_26
+  - first:
+      213: -8138098698810484512
+    second: pawn_light_16-bit_dither_27
+  - first:
+      213: 6878713300537926701
+    second: pawn_light_16-bit_dither_28
+  - first:
+      213: -7006649913426421509
+    second: pawn_light_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4bd7c40d06c800800000000000000
+      internalID: 632207111876201531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011cbb8f9320f280800000000000000
+      internalID: -9011663686217232124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8136a5e022f821f40800000000000000
+      internalID: 5697773855009563416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd89ecf3db79ad0800000000000000
+      internalID: -2695477770211238079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7568f8208741b0800000000000000
+      internalID: -5672424292195401928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c5e7dbdc8188060800000000000000
+      internalID: 6955836896400268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204872f8bd2a456b0800000000000000
+      internalID: -5308438996879703038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7472249b52446200800000000000000
+      internalID: 172335646841664634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6726b88c3c04730800000000000000
+      internalID: 3981397336694879907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062ae5f6800e8420800000000000000
+      internalID: 2634043411709699589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd81652013196250800000000000000
+      internalID: 5938298543732264443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b14cbcea95bbd40800000000000000
+      internalID: 5601169168843152261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c69988015ddb6c20800000000000000
+      internalID: 3200895300282193601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7c5d952f373ce0800000000000000
+      internalID: -1425601326253048056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209ee000681baa80800000000000000
+      internalID: -8454637074846412759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5e289348bd0d70800000000000000
+      internalID: 9011061029893725400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a16835db7725e70800000000000000
+      internalID: 9102469451903015547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f66c3fcf185f40800000000000000
+      internalID: 5717354701878917164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd722e926fd282bc0800000000000000
+      internalID: -3807742949653862437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f558d23bd0c3ccc0800000000000000
+      internalID: -3691895221830265357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f83d5bc9d87c7f0800000000000000
+      internalID: -592349121770975487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9601281c761ca60800000000000000
+      internalID: 7692543719333980654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50422b23aa0da6a40800000000000000
+      internalID: 5362327735751549957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f84b3b9b9d0c540800000000000000
+      internalID: 5026256575752605534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367ab5911cd74a70800000000000000
+      internalID: 8811253164058244665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54cc85350e901e0800000000000000
+      internalID: -2231005491808680485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb446598085ada70800000000000000
+      internalID: 8852484811439492079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81556d95aaf0f80800000000000000
+      internalID: -8138098698810484512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2461564d49167f50800000000000000
+      internalID: 6878713300537926701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf852bcc60163ce90800000000000000
+      internalID: -7006649913426421509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pawn_light_16-bit_dither_0: 632207111876201531
+      pawn_light_16-bit_dither_1: -9011663686217232124
+      pawn_light_16-bit_dither_10: 5938298543732264443
+      pawn_light_16-bit_dither_11: 5601169168843152261
+      pawn_light_16-bit_dither_12: 3200895300282193601
+      pawn_light_16-bit_dither_13: -1425601326253048056
+      pawn_light_16-bit_dither_14: -8454637074846412759
+      pawn_light_16-bit_dither_15: 9011061029893725400
+      pawn_light_16-bit_dither_16: 9102469451903015547
+      pawn_light_16-bit_dither_17: 5717354701878917164
+      pawn_light_16-bit_dither_18: -3807742949653862437
+      pawn_light_16-bit_dither_19: -3691895221830265357
+      pawn_light_16-bit_dither_2: 5697773855009563416
+      pawn_light_16-bit_dither_20: -592349121770975487
+      pawn_light_16-bit_dither_21: 7692543719333980654
+      pawn_light_16-bit_dither_22: 5362327735751549957
+      pawn_light_16-bit_dither_23: 5026256575752605534
+      pawn_light_16-bit_dither_24: 8811253164058244665
+      pawn_light_16-bit_dither_25: -2231005491808680485
+      pawn_light_16-bit_dither_26: 8852484811439492079
+      pawn_light_16-bit_dither_27: -8138098698810484512
+      pawn_light_16-bit_dither_28: 6878713300537926701
+      pawn_light_16-bit_dither_29: -7006649913426421509
+      pawn_light_16-bit_dither_3: -2695477770211238079
+      pawn_light_16-bit_dither_4: -5672424292195401928
+      pawn_light_16-bit_dither_5: 6955836896400268343
+      pawn_light_16-bit_dither_6: -5308438996879703038
+      pawn_light_16-bit_dither_7: 172335646841664634
+      pawn_light_16-bit_dither_8: 3981397336694879907
+      pawn_light_16-bit_dither_9: 2634043411709699589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -90,6 +90,13 @@ namespace Chess.Core
             
             Set(move.To, moving);
             Set(move.From, null);
+            //Promotion
+            if (moving.Type == PieceType.Pawn)
+            {
+                int lastRank =moving.Side == Side.White ?Size - 1 : 0;
+                if(move.To.Rank== lastRank)
+                    Set(move.To, new Piece(PieceType.Queen, moving.Side));
+            }
             
             return new MoveRecord(move, moving, captured);
         }

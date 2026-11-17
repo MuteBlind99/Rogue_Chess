@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 9ef3dc7f3199ac24c9a15c48e7d32615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 740629263997138597
+    second: knight_dark_16-bit_dither_0
+  - first:
+      213: 3602641125993432103
+    second: knight_dark_16-bit_dither_1
+  - first:
+      213: -8569965870533615899
+    second: knight_dark_16-bit_dither_2
+  - first:
+      213: -612147535468138288
+    second: knight_dark_16-bit_dither_3
+  - first:
+      213: 5746804477179938521
+    second: knight_dark_16-bit_dither_4
+  - first:
+      213: 6360875173401319724
+    second: knight_dark_16-bit_dither_5
+  - first:
+      213: 4449920317518621859
+    second: knight_dark_16-bit_dither_6
+  - first:
+      213: -77447381519947412
+    second: knight_dark_16-bit_dither_7
+  - first:
+      213: 8921772617115297618
+    second: knight_dark_16-bit_dither_8
+  - first:
+      213: -1890301316273659387
+    second: knight_dark_16-bit_dither_9
+  - first:
+      213: 2083104589470164429
+    second: knight_dark_16-bit_dither_10
+  - first:
+      213: -3753903282517598507
+    second: knight_dark_16-bit_dither_11
+  - first:
+      213: 1102783897025633023
+    second: knight_dark_16-bit_dither_12
+  - first:
+      213: 3191255459268111088
+    second: knight_dark_16-bit_dither_13
+  - first:
+      213: 2625256281119668420
+    second: knight_dark_16-bit_dither_14
+  - first:
+      213: 2946577865047250459
+    second: knight_dark_16-bit_dither_15
+  - first:
+      213: 3429941582488546200
+    second: knight_dark_16-bit_dither_16
+  - first:
+      213: 7792415440230161291
+    second: knight_dark_16-bit_dither_17
+  - first:
+      213: 7172087913101188928
+    second: knight_dark_16-bit_dither_18
+  - first:
+      213: -4838786489384296395
+    second: knight_dark_16-bit_dither_19
+  - first:
+      213: -6988484630630986697
+    second: knight_dark_16-bit_dither_20
+  - first:
+      213: -6055029241596773505
+    second: knight_dark_16-bit_dither_21
+  - first:
+      213: -6756296227509472657
+    second: knight_dark_16-bit_dither_22
+  - first:
+      213: -6401140702998835078
+    second: knight_dark_16-bit_dither_23
+  - first:
+      213: -6048047271269285597
+    second: knight_dark_16-bit_dither_24
+  - first:
+      213: -1298233940786021911
+    second: knight_dark_16-bit_dither_25
+  - first:
+      213: -132816063891437879
+    second: knight_dark_16-bit_dither_26
+  - first:
+      213: -7198666539616376753
+    second: knight_dark_16-bit_dither_27
+  - first:
+      213: 2459867065391720270
+    second: knight_dark_16-bit_dither_28
+  - first:
+      213: -1646615361049428057
+    second: knight_dark_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fece346e374a00800000000000000
+      internalID: 740629263997138597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244d0834072ff130800000000000000
+      internalID: 3602641125993432103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee5f95427d511980800000000000000
+      internalID: -8569965870533615899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d07a4e4f073187f0800000000000000
+      internalID: -612147535468138288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64fef5930c0cf40800000000000000
+      internalID: 5746804477179938521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29df23d44e564850800000000000000
+      internalID: 6360875173401319724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acad7cb3fa41cd30800000000000000
+      internalID: 4449920317518621859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 145
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6928bf440adceef0800000000000000
+      internalID: -77447381519947412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e6f9fce080db70800000000000000
+      internalID: 8921772617115297618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5022e05d7fc44c5e0800000000000000
+      internalID: -1890301316273659387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ea5d569ca8ec10800000000000000
+      internalID: 2083104589470164429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de9d548ad477ebc0800000000000000
+      internalID: -3753903282517598507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffadb3e8c10ed4f00800000000000000
+      internalID: 1102783897025633023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa335aeed994c20800000000000000
+      internalID: 3191255459268111088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83080bda8ce6420800000000000000
+      internalID: 2625256281119668420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b169b25e4f854e820800000000000000
+      internalID: 2946577865047250459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b229852b9999f20800000000000000
+      internalID: 3429941582488546200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b10319e88342c60800000000000000
+      internalID: 7792415440230161291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd44625ff588360800000000000000
+      internalID: 7172087913101188928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302a4c235d29dcb0800000000000000
+      internalID: -4838786489384296395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c86f8414ae30f90800000000000000
+      internalID: -6988484630630986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b75065cf638fba0800000000000000
+      internalID: -6055029241596773505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f627cf1a060dc32a0800000000000000
+      internalID: -6756296227509472657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d57002749a27a0800000000000000
+      internalID: -6401140702998835078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321493bfc05011ca0800000000000000
+      internalID: -6048047271269285597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f714fb1fbbfde0800000000000000
+      internalID: -1298233940786021911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6094b5e74282ef0800000000000000
+      internalID: -132816063891437879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48eca12ce2391c90800000000000000
+      internalID: -7198666539616376753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472b532014332220800000000000000
+      internalID: 2459867065391720270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af72f2ad0c0629e0800000000000000
+      internalID: -1646615361049428057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_dark_16-bit_dither_0: 740629263997138597
+      knight_dark_16-bit_dither_1: 3602641125993432103
+      knight_dark_16-bit_dither_10: 2083104589470164429
+      knight_dark_16-bit_dither_11: -3753903282517598507
+      knight_dark_16-bit_dither_12: 1102783897025633023
+      knight_dark_16-bit_dither_13: 3191255459268111088
+      knight_dark_16-bit_dither_14: 2625256281119668420
+      knight_dark_16-bit_dither_15: 2946577865047250459
+      knight_dark_16-bit_dither_16: 3429941582488546200
+      knight_dark_16-bit_dither_17: 7792415440230161291
+      knight_dark_16-bit_dither_18: 7172087913101188928
+      knight_dark_16-bit_dither_19: -4838786489384296395
+      knight_dark_16-bit_dither_2: -8569965870533615899
+      knight_dark_16-bit_dither_20: -6988484630630986697
+      knight_dark_16-bit_dither_21: -6055029241596773505
+      knight_dark_16-bit_dither_22: -6756296227509472657
+      knight_dark_16-bit_dither_23: -6401140702998835078
+      knight_dark_16-bit_dither_24: -6048047271269285597
+      knight_dark_16-bit_dither_25: -1298233940786021911
+      knight_dark_16-bit_dither_26: -132816063891437879
+      knight_dark_16-bit_dither_27: -7198666539616376753
+      knight_dark_16-bit_dither_28: 2459867065391720270
+      knight_dark_16-bit_dither_29: -1646615361049428057
+      knight_dark_16-bit_dither_3: -612147535468138288
+      knight_dark_16-bit_dither_4: 5746804477179938521
+      knight_dark_16-bit_dither_5: 6360875173401319724
+      knight_dark_16-bit_dither_6: 4449920317518621859
+      knight_dark_16-bit_dither_7: -77447381519947412
+      knight_dark_16-bit_dither_8: 8921772617115297618
+      knight_dark_16-bit_dither_9: -1890301316273659387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

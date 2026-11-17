@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 94639f796a54e2842aedc0bc02f60fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7756440180516420752
+    second: queen_light_16-bit_0
+  - first:
+      213: -1406257175454415339
+    second: queen_light_16-bit_1
+  - first:
+      213: 6052271402114991304
+    second: queen_light_16-bit_2
+  - first:
+      213: 6402437567076779964
+    second: queen_light_16-bit_3
+  - first:
+      213: 3063747937370734352
+    second: queen_light_16-bit_4
+  - first:
+      213: 6558318816658641989
+    second: queen_light_16-bit_5
+  - first:
+      213: 5249449014859061040
+    second: queen_light_16-bit_6
+  - first:
+      213: -7880219375496253754
+    second: queen_light_16-bit_7
+  - first:
+      213: 7393462490868633214
+    second: queen_light_16-bit_8
+  - first:
+      213: 3523224167337657297
+    second: queen_light_16-bit_9
+  - first:
+      213: 3347365425236670034
+    second: queen_light_16-bit_10
+  - first:
+      213: 2633276421406214324
+    second: queen_light_16-bit_11
+  - first:
+      213: -8204467828671612055
+    second: queen_light_16-bit_12
+  - first:
+      213: -7878792088806554917
+    second: queen_light_16-bit_13
+  - first:
+      213: 1562001072300180392
+    second: queen_light_16-bit_14
+  - first:
+      213: 5864772360534803369
+    second: queen_light_16-bit_15
+  - first:
+      213: 922448580428451604
+    second: queen_light_16-bit_16
+  - first:
+      213: -2711533130352067451
+    second: queen_light_16-bit_17
+  - first:
+      213: 8538562453321136605
+    second: queen_light_16-bit_18
+  - first:
+      213: 7611973723915178470
+    second: queen_light_16-bit_19
+  - first:
+      213: -7255890114948811810
+    second: queen_light_16-bit_20
+  - first:
+      213: 6572328265242819742
+    second: queen_light_16-bit_21
+  - first:
+      213: -6297903628242468453
+    second: queen_light_16-bit_22
+  - first:
+      213: 2542229113200580634
+    second: queen_light_16-bit_23
+  - first:
+      213: -1140420309915789124
+    second: queen_light_16-bit_24
+  - first:
+      213: -487069833220911085
+    second: queen_light_16-bit_25
+  - first:
+      213: -4748735806827949742
+    second: queen_light_16-bit_26
+  - first:
+      213: -6914348671411282023
+    second: queen_light_16-bit_27
+  - first:
+      213: 1743267986326230619
+    second: queen_light_16-bit_28
+  - first:
+      213: -1835814690556060995
+    second: queen_light_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_light_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07380ce40c69b5490800000000000000
+      internalID: -7756440180516420752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5160232bc88fb7ce0800000000000000
+      internalID: -1406257175454415339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c15f16ccfdf350800000000000000
+      internalID: 6052271402114991304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74a32bb070ad850800000000000000
+      internalID: 6402437567076779964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7150448e948a20800000000000000
+      internalID: 3063747937370734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d2be5734d30b50800000000000000
+      internalID: 6558318816658641989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d235f01ac9d840800000000000000
+      internalID: 5249449014859061040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce256baa36d3a290800000000000000
+      internalID: -7880219375496253754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e466496fada9660800000000000000
+      internalID: 7393462490868633214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38b3e96b105e030800000000000000
+      internalID: 3523224167337657297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256f7a08e1b347e20800000000000000
+      internalID: 3347365425236670034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8445d14f64b8420800000000000000
+      internalID: 2633276421406214324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b78ec9affd32e80800000000000000
+      internalID: -8204467828671612055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2078fb658e8a290800000000000000
+      internalID: -7878792088806554917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 97
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34b3d03b75da510800000000000000
+      internalID: 1562001072300180392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c436936bd36150800000000000000
+      internalID: 5864772360534803369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4008b8123dcc00800000000000000
+      internalID: 922448580428451604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c79a8fbf2be5ad0800000000000000
+      internalID: -2711533130352067451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b1b2ef411f7670800000000000000
+      internalID: 8538562453321136605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1529d95c923a960800000000000000
+      internalID: 7611973723915178470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed335314266ed4b90800000000000000
+      internalID: -7255890114948811810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cbe0d4cb9953b50800000000000000
+      internalID: 6572328265242819742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 49
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c6f0940a5998a0800000000000000
+      internalID: -6297903628242468453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a181afdb8efc74320800000000000000
+      internalID: 2542229113200580634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb814d435c96c20f0800000000000000
+      internalID: -1140420309915789124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101f0a31949d39f0800000000000000
+      internalID: -487069833220911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25197dd81f9191eb0800000000000000
+      internalID: -4748735806827949742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1653648c4b00a0800000000000000
+      internalID: -6914348671411282023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5619415ff4513810800000000000000
+      internalID: 1743267986326230619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_light_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba56f7f340e586e0800000000000000
+      internalID: -1835814690556060995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_light_16-bit_0: -7756440180516420752
+      queen_light_16-bit_1: -1406257175454415339
+      queen_light_16-bit_10: 3347365425236670034
+      queen_light_16-bit_11: 2633276421406214324
+      queen_light_16-bit_12: -8204467828671612055
+      queen_light_16-bit_13: -7878792088806554917
+      queen_light_16-bit_14: 1562001072300180392
+      queen_light_16-bit_15: 5864772360534803369
+      queen_light_16-bit_16: 922448580428451604
+      queen_light_16-bit_17: -2711533130352067451
+      queen_light_16-bit_18: 8538562453321136605
+      queen_light_16-bit_19: 7611973723915178470
+      queen_light_16-bit_2: 6052271402114991304
+      queen_light_16-bit_20: -7255890114948811810
+      queen_light_16-bit_21: 6572328265242819742
+      queen_light_16-bit_22: -6297903628242468453
+      queen_light_16-bit_23: 2542229113200580634
+      queen_light_16-bit_24: -1140420309915789124
+      queen_light_16-bit_25: -487069833220911085
+      queen_light_16-bit_26: -4748735806827949742
+      queen_light_16-bit_27: -6914348671411282023
+      queen_light_16-bit_28: 1743267986326230619
+      queen_light_16-bit_29: -1835814690556060995
+      queen_light_16-bit_3: 6402437567076779964
+      queen_light_16-bit_4: 3063747937370734352
+      queen_light_16-bit_5: 6558318816658641989
+      queen_light_16-bit_6: 5249449014859061040
+      queen_light_16-bit_7: -7880219375496253754
+      queen_light_16-bit_8: 7393462490868633214
+      queen_light_16-bit_9: 3523224167337657297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

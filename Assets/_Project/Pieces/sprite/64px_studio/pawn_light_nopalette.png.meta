@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 17c8d3eefefa69d4287a2ebe2cd9a883
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3222753935804710515
+    second: pawn_light_nopalette_0
+  - first:
+      213: -5112003387883897644
+    second: pawn_light_nopalette_1
+  - first:
+      213: -3992311999964541304
+    second: pawn_light_nopalette_2
+  - first:
+      213: -7519109867406374945
+    second: pawn_light_nopalette_3
+  - first:
+      213: -5929441189816472778
+    second: pawn_light_nopalette_4
+  - first:
+      213: -3203143550550917458
+    second: pawn_light_nopalette_5
+  - first:
+      213: 4174176738628150074
+    second: pawn_light_nopalette_6
+  - first:
+      213: 6060122389089971075
+    second: pawn_light_nopalette_7
+  - first:
+      213: 587774282144951764
+    second: pawn_light_nopalette_8
+  - first:
+      213: -2173156389307878732
+    second: pawn_light_nopalette_9
+  - first:
+      213: 2672652373386755606
+    second: pawn_light_nopalette_10
+  - first:
+      213: 5265666040483865075
+    second: pawn_light_nopalette_11
+  - first:
+      213: 4857169019194491301
+    second: pawn_light_nopalette_12
+  - first:
+      213: 2261298668613256927
+    second: pawn_light_nopalette_13
+  - first:
+      213: 7292336900360126079
+    second: pawn_light_nopalette_14
+  - first:
+      213: -5268699222112523739
+    second: pawn_light_nopalette_15
+  - first:
+      213: 4482538501098475216
+    second: pawn_light_nopalette_16
+  - first:
+      213: 644979936362398579
+    second: pawn_light_nopalette_17
+  - first:
+      213: -493197509677979536
+    second: pawn_light_nopalette_18
+  - first:
+      213: 7301790980415264666
+    second: pawn_light_nopalette_19
+  - first:
+      213: -3761306225987909506
+    second: pawn_light_nopalette_20
+  - first:
+      213: 7947173451586065310
+    second: pawn_light_nopalette_21
+  - first:
+      213: -6250482374102890775
+    second: pawn_light_nopalette_22
+  - first:
+      213: 2617842929472152910
+    second: pawn_light_nopalette_23
+  - first:
+      213: 8475467885287756368
+    second: pawn_light_nopalette_24
+  - first:
+      213: 6702450807269836520
+    second: pawn_light_nopalette_25
+  - first:
+      213: -8765012255495327871
+    second: pawn_light_nopalette_26
+  - first:
+      213: -1139178449195929875
+    second: pawn_light_nopalette_27
+  - first:
+      213: -4112934279810186619
+    second: pawn_light_nopalette_28
+  - first:
+      213: -1388962197752939107
+    second: pawn_light_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawn_light_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814ed9ce5a7643d0800000000000000
+      internalID: -3222753935804710515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3696d0048e09b0800000000000000
+      internalID: -5112003387883897644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e859163657898c0800000000000000
+      internalID: -3992311999964541304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7cb1ed961c6a790800000000000000
+      internalID: -7519109867406374945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6b6447a466bda0800000000000000
+      internalID: -5929441189816472778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae34d869e52c83d0800000000000000
+      internalID: -3203143550550917458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3321a7c0a7ade930800000000000000
+      internalID: 4174176738628150074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b69197431e91450800000000000000
+      internalID: 6060122389089971075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd2c5f6891382800800000000000000
+      internalID: 587774282144951764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2feed17c567d1e0800000000000000
+      internalID: -2173156389307878732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e72db5c2b271520800000000000000
+      internalID: 2672652373386755606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e0e87d57631940800000000000000
+      internalID: 5265666040483865075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ce131d71286340800000000000000
+      internalID: 4857169019194491301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c1c1882fb16f10800000000000000
+      internalID: 2261298668613256927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e307046c5933560800000000000000
+      internalID: 7292336900360126079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a2b95e8f1d1e6b0800000000000000
+      internalID: -5268699222112523739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de8cf9640d253e30800000000000000
+      internalID: 4482538501098475216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373822ab5dd63f800800000000000000
+      internalID: 644979936362398579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078698f5a7fc729f0800000000000000
+      internalID: -493197509677979536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979dcbc53c255560800000000000000
+      internalID: 7301790980415264666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78868c6ae72dcbc0800000000000000
+      internalID: -3761306225987909506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d336f5280a4e60800000000000000
+      internalID: 7947173451586065310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6c1c0b563d149a0800000000000000
+      internalID: -6250482374102890775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a4f04642745420800000000000000
+      internalID: 2617842929472152910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052decff229ee9570800000000000000
+      internalID: 8475467885287756368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e649d38f73e30d50800000000000000
+      internalID: 6702450807269836520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f614beacb6c5680800000000000000
+      internalID: -8765012255495327871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee65ef6c33d030f0800000000000000
+      internalID: -1139178449195929875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5820363501cebe6c0800000000000000
+      internalID: -4112934279810186619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7d7c7d3a69bce0800000000000000
+      internalID: -1388962197752939107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pawn_light_nopalette_0: -3222753935804710515
+      pawn_light_nopalette_1: -5112003387883897644
+      pawn_light_nopalette_10: 2672652373386755606
+      pawn_light_nopalette_11: 5265666040483865075
+      pawn_light_nopalette_12: 4857169019194491301
+      pawn_light_nopalette_13: 2261298668613256927
+      pawn_light_nopalette_14: 7292336900360126079
+      pawn_light_nopalette_15: -5268699222112523739
+      pawn_light_nopalette_16: 4482538501098475216
+      pawn_light_nopalette_17: 644979936362398579
+      pawn_light_nopalette_18: -493197509677979536
+      pawn_light_nopalette_19: 7301790980415264666
+      pawn_light_nopalette_2: -3992311999964541304
+      pawn_light_nopalette_20: -3761306225987909506
+      pawn_light_nopalette_21: 7947173451586065310
+      pawn_light_nopalette_22: -6250482374102890775
+      pawn_light_nopalette_23: 2617842929472152910
+      pawn_light_nopalette_24: 8475467885287756368
+      pawn_light_nopalette_25: 6702450807269836520
+      pawn_light_nopalette_26: -8765012255495327871
+      pawn_light_nopalette_27: -1139178449195929875
+      pawn_light_nopalette_28: -4112934279810186619
+      pawn_light_nopalette_29: -1388962197752939107
+      pawn_light_nopalette_3: -7519109867406374945
+      pawn_light_nopalette_4: -5929441189816472778
+      pawn_light_nopalette_5: -3203143550550917458
+      pawn_light_nopalette_6: 4174176738628150074
+      pawn_light_nopalette_7: 6060122389089971075
+      pawn_light_nopalette_8: 587774282144951764
+      pawn_light_nopalette_9: -2173156389307878732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

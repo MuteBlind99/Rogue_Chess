@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 3579bee69ae3ffc41b0fc72f41e58251
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -476223496224957146
+    second: pawn_light_16-bit_0
+  - first:
+      213: -266418992728709072
+    second: pawn_light_16-bit_1
+  - first:
+      213: -3569596508183371377
+    second: pawn_light_16-bit_2
+  - first:
+      213: 7183603117201682664
+    second: pawn_light_16-bit_3
+  - first:
+      213: -7513517966029127865
+    second: pawn_light_16-bit_4
+  - first:
+      213: 3726208294069982557
+    second: pawn_light_16-bit_5
+  - first:
+      213: 8210757036268742512
+    second: pawn_light_16-bit_6
+  - first:
+      213: -7108497471829425414
+    second: pawn_light_16-bit_7
+  - first:
+      213: 2553742388704157473
+    second: pawn_light_16-bit_8
+  - first:
+      213: 4176891033379325455
+    second: pawn_light_16-bit_9
+  - first:
+      213: 5089183677366427652
+    second: pawn_light_16-bit_10
+  - first:
+      213: -4445899002485068351
+    second: pawn_light_16-bit_11
+  - first:
+      213: 4264398331335034142
+    second: pawn_light_16-bit_12
+  - first:
+      213: -5236979518377229121
+    second: pawn_light_16-bit_13
+  - first:
+      213: -950942898721520590
+    second: pawn_light_16-bit_14
+  - first:
+      213: 4147222787030043219
+    second: pawn_light_16-bit_15
+  - first:
+      213: 2918020110316365284
+    second: pawn_light_16-bit_16
+  - first:
+      213: -2250127487666765366
+    second: pawn_light_16-bit_17
+  - first:
+      213: 3690847335285932135
+    second: pawn_light_16-bit_18
+  - first:
+      213: -5187239535123605233
+    second: pawn_light_16-bit_19
+  - first:
+      213: 2838269843301165548
+    second: pawn_light_16-bit_20
+  - first:
+      213: 1847689726646739281
+    second: pawn_light_16-bit_21
+  - first:
+      213: 4529038392507732865
+    second: pawn_light_16-bit_22
+  - first:
+      213: -8051235380890234875
+    second: pawn_light_16-bit_23
+  - first:
+      213: 2753310534524603040
+    second: pawn_light_16-bit_24
+  - first:
+      213: -8078484562051692281
+    second: pawn_light_16-bit_25
+  - first:
+      213: 5589238760584955568
+    second: pawn_light_16-bit_26
+  - first:
+      213: 4909307373609672245
+    second: pawn_light_16-bit_27
+  - first:
+      213: 4412310551429967566
+    second: pawn_light_16-bit_28
+  - first:
+      213: 1123324010257637946
+    second: pawn_light_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawn_light_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d11d9d04d1469f0800000000000000
+      internalID: -476223496224957146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ecf0765d7d4cf0800000000000000
+      internalID: -266418992728709072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81614a63ee367ec0800000000000000
+      internalID: -3569596508183371377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0f13889f841b360800000000000000
+      internalID: 7183603117201682664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f715dd73f9ab790800000000000000
+      internalID: -7513517966029127865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d72f73b626b330800000000000000
+      internalID: 3726208294069982557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07766d3a50872f170800000000000000
+      internalID: 8210757036268742512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af248d8363b895d90800000000000000
+      internalID: -7108497471829425414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f91961c27b07320800000000000000
+      internalID: 2553742388704157473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c616c34c47f930800000000000000
+      internalID: 4176891033379325455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006426479960a640800000000000000
+      internalID: 5089183677366427652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2d91a96efc42c0800000000000000
+      internalID: -4445899002485068351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e154ef740bf2e2b30800000000000000
+      internalID: 4264398331335034142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4012fefd28257b0800000000000000
+      internalID: -5236979518377229121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2340600d8729dc2f0800000000000000
+      internalID: -950942898721520590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 130
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ac451e625ed8930800000000000000
+      internalID: 4147222787030043219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e56ada74d3ee7820800000000000000
+      internalID: 2918020110316365284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c74eb8f0f5c0e0800000000000000
+      internalID: -2250127487666765366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7604ae3b816883330800000000000000
+      internalID: 3690847335285932135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09581040293308b0800000000000000
+      internalID: -5187239535123605233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96baa726f836720800000000000000
+      internalID: 2838269843301165548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151eae3540054a910800000000000000
+      internalID: 1847689726646739281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183978f0c606ade30800000000000000
+      internalID: 4529038392507732865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001bfe0414444090800000000000000
+      internalID: -8051235380890234875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0eaee759b53620800000000000000
+      internalID: 2753310534524603040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098e6ba71573ef80800000000000000
+      internalID: -8078484562051692281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c2892a07f09d40800000000000000
+      internalID: 5589238760584955568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed531bb0d512440800000000000000
+      internalID: 4909307373609672245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee0b0b11dab3d30800000000000000
+      internalID: 4412310551429967566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_light_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e2175c39d69f00800000000000000
+      internalID: 1123324010257637946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pawn_light_16-bit_0: -476223496224957146
+      pawn_light_16-bit_1: -266418992728709072
+      pawn_light_16-bit_10: 5089183677366427652
+      pawn_light_16-bit_11: -4445899002485068351
+      pawn_light_16-bit_12: 4264398331335034142
+      pawn_light_16-bit_13: -5236979518377229121
+      pawn_light_16-bit_14: -950942898721520590
+      pawn_light_16-bit_15: 4147222787030043219
+      pawn_light_16-bit_16: 2918020110316365284
+      pawn_light_16-bit_17: -2250127487666765366
+      pawn_light_16-bit_18: 3690847335285932135
+      pawn_light_16-bit_19: -5187239535123605233
+      pawn_light_16-bit_2: -3569596508183371377
+      pawn_light_16-bit_20: 2838269843301165548
+      pawn_light_16-bit_21: 1847689726646739281
+      pawn_light_16-bit_22: 4529038392507732865
+      pawn_light_16-bit_23: -8051235380890234875
+      pawn_light_16-bit_24: 2753310534524603040
+      pawn_light_16-bit_25: -8078484562051692281
+      pawn_light_16-bit_26: 5589238760584955568
+      pawn_light_16-bit_27: 4909307373609672245
+      pawn_light_16-bit_28: 4412310551429967566
+      pawn_light_16-bit_29: 1123324010257637946
+      pawn_light_16-bit_3: 7183603117201682664
+      pawn_light_16-bit_4: -7513517966029127865
+      pawn_light_16-bit_5: 3726208294069982557
+      pawn_light_16-bit_6: 8210757036268742512
+      pawn_light_16-bit_7: -7108497471829425414
+      pawn_light_16-bit_8: 2553742388704157473
+      pawn_light_16-bit_9: 4176891033379325455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

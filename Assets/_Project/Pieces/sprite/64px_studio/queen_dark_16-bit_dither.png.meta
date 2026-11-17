@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 9f9201335ef19454fb2428387afb7b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2700230982233615774
+    second: queen_dark_16-bit_dither_0
+  - first:
+      213: 7201592622906422484
+    second: queen_dark_16-bit_dither_1
+  - first:
+      213: -473057393840306190
+    second: queen_dark_16-bit_dither_2
+  - first:
+      213: 7710055235707795449
+    second: queen_dark_16-bit_dither_3
+  - first:
+      213: 7060289015897775332
+    second: queen_dark_16-bit_dither_4
+  - first:
+      213: -3927436203178177512
+    second: queen_dark_16-bit_dither_5
+  - first:
+      213: -5305560416944440581
+    second: queen_dark_16-bit_dither_6
+  - first:
+      213: 8503432334042376301
+    second: queen_dark_16-bit_dither_7
+  - first:
+      213: 2829015371999611252
+    second: queen_dark_16-bit_dither_8
+  - first:
+      213: -1084068673841980257
+    second: queen_dark_16-bit_dither_9
+  - first:
+      213: -4244086557794897113
+    second: queen_dark_16-bit_dither_10
+  - first:
+      213: -4289225747583361091
+    second: queen_dark_16-bit_dither_11
+  - first:
+      213: 6250316850342073766
+    second: queen_dark_16-bit_dither_12
+  - first:
+      213: 154942564271559975
+    second: queen_dark_16-bit_dither_13
+  - first:
+      213: 1243933692587944865
+    second: queen_dark_16-bit_dither_14
+  - first:
+      213: 3988259190213951121
+    second: queen_dark_16-bit_dither_15
+  - first:
+      213: 3714047074083473776
+    second: queen_dark_16-bit_dither_16
+  - first:
+      213: 4377516013753854974
+    second: queen_dark_16-bit_dither_17
+  - first:
+      213: 6779098712134134447
+    second: queen_dark_16-bit_dither_18
+  - first:
+      213: 3611323411049126369
+    second: queen_dark_16-bit_dither_19
+  - first:
+      213: 8070164537768607425
+    second: queen_dark_16-bit_dither_20
+  - first:
+      213: -2218400162604404815
+    second: queen_dark_16-bit_dither_21
+  - first:
+      213: 8500926197460029903
+    second: queen_dark_16-bit_dither_22
+  - first:
+      213: -4520823218484268695
+    second: queen_dark_16-bit_dither_23
+  - first:
+      213: -1271894019820472349
+    second: queen_dark_16-bit_dither_24
+  - first:
+      213: 1774920138017840235
+    second: queen_dark_16-bit_dither_25
+  - first:
+      213: -7095557217430791109
+    second: queen_dark_16-bit_dither_26
+  - first:
+      213: 3161923224237144623
+    second: queen_dark_16-bit_dither_27
+  - first:
+      213: -58226637545736278
+    second: queen_dark_16-bit_dither_28
+  - first:
+      213: 7308368215155459307
+    second: queen_dark_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26216746a3ad68ad0800000000000000
+      internalID: -2700230982233615774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d43969b55231f360800000000000000
+      internalID: 7201592622906422484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c6c18ecc5f69f0800000000000000
+      internalID: -473057393840306190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f003236e9ffa60800000000000000
+      internalID: 7710055235707795449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdd24f37f2bf160800000000000000
+      internalID: 7060289015897775332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c4e87e491fe79c0800000000000000
+      internalID: -3927436203178177512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa37ad29ecde56b0800000000000000
+      internalID: -5305560416944440581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68aa2a97a2420670800000000000000
+      internalID: 8503432334042376301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790828fd7ea24720800000000000000
+      internalID: 2829015371999611252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c1587e84d94f0f0800000000000000
+      internalID: -1084068673841980257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ff9603c9f915c0800000000000000
+      internalID: -4244086557794897113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf95d968eb9974c0800000000000000
+      internalID: -4289225747583361091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5174e4f069db650800000000000000
+      internalID: 6250316850342073766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259ef7f077762200800000000000000
+      internalID: 154942564271559975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab28de4a17534110800000000000000
+      internalID: 1243933692587944865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb3e05a94295730800000000000000
+      internalID: 3988259190213951121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07903d1d222fa8330800000000000000
+      internalID: 3714047074083473776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbe1661f9f00cc30800000000000000
+      internalID: 4377516013753854974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa201a8c52341e50800000000000000
+      internalID: 6779098712134134447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e992ac328ffd1230800000000000000
+      internalID: 3611323411049126369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef6a8b3ebfeff60800000000000000
+      internalID: 8070164537768607425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfab424ec8a631e0800000000000000
+      internalID: -2218400162604404815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1da65365b59f570800000000000000
+      internalID: 8500926197460029903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96138e13c3fc241c0800000000000000
+      internalID: -4520823218484268695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e738a4b023595ee0800000000000000
+      internalID: -1271894019820472349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c9d3b2678c1a810800000000000000
+      internalID: 1774920138017840235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c149bfd44878d90800000000000000
+      internalID: -7095557217430791109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a76bb7b6861eb20800000000000000
+      internalID: 3161923224237144623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7fe908e23213ff0800000000000000
+      internalID: -58226637545736278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c8189b2a8c6560800000000000000
+      internalID: 7308368215155459307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_dark_16-bit_dither_0: -2700230982233615774
+      queen_dark_16-bit_dither_1: 7201592622906422484
+      queen_dark_16-bit_dither_10: -4244086557794897113
+      queen_dark_16-bit_dither_11: -4289225747583361091
+      queen_dark_16-bit_dither_12: 6250316850342073766
+      queen_dark_16-bit_dither_13: 154942564271559975
+      queen_dark_16-bit_dither_14: 1243933692587944865
+      queen_dark_16-bit_dither_15: 3988259190213951121
+      queen_dark_16-bit_dither_16: 3714047074083473776
+      queen_dark_16-bit_dither_17: 4377516013753854974
+      queen_dark_16-bit_dither_18: 6779098712134134447
+      queen_dark_16-bit_dither_19: 3611323411049126369
+      queen_dark_16-bit_dither_2: -473057393840306190
+      queen_dark_16-bit_dither_20: 8070164537768607425
+      queen_dark_16-bit_dither_21: -2218400162604404815
+      queen_dark_16-bit_dither_22: 8500926197460029903
+      queen_dark_16-bit_dither_23: -4520823218484268695
+      queen_dark_16-bit_dither_24: -1271894019820472349
+      queen_dark_16-bit_dither_25: 1774920138017840235
+      queen_dark_16-bit_dither_26: -7095557217430791109
+      queen_dark_16-bit_dither_27: 3161923224237144623
+      queen_dark_16-bit_dither_28: -58226637545736278
+      queen_dark_16-bit_dither_29: 7308368215155459307
+      queen_dark_16-bit_dither_3: 7710055235707795449
+      queen_dark_16-bit_dither_4: 7060289015897775332
+      queen_dark_16-bit_dither_5: -3927436203178177512
+      queen_dark_16-bit_dither_6: -5305560416944440581
+      queen_dark_16-bit_dither_7: 8503432334042376301
+      queen_dark_16-bit_dither_8: 2829015371999611252
+      queen_dark_16-bit_dither_9: -1084068673841980257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: d57037389db735a4e974fc756ef78fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8158373866608422282
+    second: knight_dark_16-bit_0
+  - first:
+      213: -8517312524383430793
+    second: knight_dark_16-bit_1
+  - first:
+      213: 4490203232931448555
+    second: knight_dark_16-bit_2
+  - first:
+      213: 4795971443514971557
+    second: knight_dark_16-bit_3
+  - first:
+      213: -2413508695176714669
+    second: knight_dark_16-bit_4
+  - first:
+      213: 6381929006661130173
+    second: knight_dark_16-bit_5
+  - first:
+      213: -3415119618999645487
+    second: knight_dark_16-bit_6
+  - first:
+      213: -2389349826729745081
+    second: knight_dark_16-bit_7
+  - first:
+      213: 2571465770041246408
+    second: knight_dark_16-bit_8
+  - first:
+      213: 2624860414575571875
+    second: knight_dark_16-bit_9
+  - first:
+      213: 8509652627779688532
+    second: knight_dark_16-bit_10
+  - first:
+      213: 4946297372200413339
+    second: knight_dark_16-bit_11
+  - first:
+      213: 3213226967451024951
+    second: knight_dark_16-bit_12
+  - first:
+      213: 3559634253064823644
+    second: knight_dark_16-bit_13
+  - first:
+      213: 6866497171297948925
+    second: knight_dark_16-bit_14
+  - first:
+      213: 7182985125330514333
+    second: knight_dark_16-bit_15
+  - first:
+      213: 4037017606186251344
+    second: knight_dark_16-bit_16
+  - first:
+      213: -4150474585330564644
+    second: knight_dark_16-bit_17
+  - first:
+      213: 2543722008833966237
+    second: knight_dark_16-bit_18
+  - first:
+      213: -6026549518074829936
+    second: knight_dark_16-bit_19
+  - first:
+      213: 2750693434424453837
+    second: knight_dark_16-bit_20
+  - first:
+      213: -3349283857351022599
+    second: knight_dark_16-bit_21
+  - first:
+      213: 3346764643690003579
+    second: knight_dark_16-bit_22
+  - first:
+      213: -436116379210121467
+    second: knight_dark_16-bit_23
+  - first:
+      213: -7894421339793537387
+    second: knight_dark_16-bit_24
+  - first:
+      213: -8214870248832845185
+    second: knight_dark_16-bit_25
+  - first:
+      213: -524759545984087648
+    second: knight_dark_16-bit_26
+  - first:
+      213: 6373241901507434226
+    second: knight_dark_16-bit_27
+  - first:
+      213: -2452416016426591442
+    second: knight_dark_16-bit_28
+  - first:
+      213: -1230996348733956889
+    second: knight_dark_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_dark_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67299f77132a7ce80800000000000000
+      internalID: -8158373866608422282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 195
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d32fb26d6cc980800000000000000
+      internalID: -8517312524383430793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6803cdc08605e30800000000000000
+      internalID: 4490203232931448555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a590a32e96be8240800000000000000
+      internalID: 4795971443514971557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 195
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356eca901ae718ed0800000000000000
+      internalID: -2413508695176714669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75ccf5e9a219850800000000000000
+      internalID: 6381929006661130173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0f04fcce0b90d0800000000000000
+      internalID: -3415119618999645487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 194
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e1adedf257ded0800000000000000
+      internalID: -2389349826729745081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2826f5e7eafa320800000000000000
+      internalID: 2571465770041246408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3f2c3d3a06d6420800000000000000
+      internalID: 2624860414575571875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45817c89afb581670800000000000000
+      internalID: 8509652627779688532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98247fd047c4a440800000000000000
+      internalID: 4946297372200413339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 129
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ebf9907eca79c20800000000000000
+      internalID: 3213226967451024951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ed305e7c566130800000000000000
+      internalID: 3559634253064823644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4507a0cc2ba4f50800000000000000
+      internalID: 6866497171297948925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 129
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917d361ae61fa360800000000000000
+      internalID: 7182985125330514333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054bab0bf1e560830800000000000000
+      internalID: 4037017606186251344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c514da5d8666c0800000000000000
+      internalID: -4150474585330564644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9044e790bd1d4320800000000000000
+      internalID: 2543722008833966237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09329d1b4256d5ca0800000000000000
+      internalID: -6026549518074829936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca6ed4da1d6c2620800000000000000
+      internalID: 2750693434424453837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f764a6b314f481d0800000000000000
+      internalID: -3349283857351022599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cbaf526b8127e20800000000000000
+      internalID: 3346764643690003579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 66
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f7378b67a92f9f0800000000000000
+      internalID: -436116379210121467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c75e2e91617290800000000000000
+      internalID: -7894421339793537387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab46e680beefd80800000000000000
+      internalID: -8214870248832845185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98f1529fda7b8f0800000000000000
+      internalID: -524759545984087648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f65cf61ebd427850800000000000000
+      internalID: 6373241901507434226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b1a6360a447fdd0800000000000000
+      internalID: -2452416016426591442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd8e9c75f9aeee0800000000000000
+      internalID: -1230996348733956889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_dark_16-bit_0: -8158373866608422282
+      knight_dark_16-bit_1: -8517312524383430793
+      knight_dark_16-bit_10: 8509652627779688532
+      knight_dark_16-bit_11: 4946297372200413339
+      knight_dark_16-bit_12: 3213226967451024951
+      knight_dark_16-bit_13: 3559634253064823644
+      knight_dark_16-bit_14: 6866497171297948925
+      knight_dark_16-bit_15: 7182985125330514333
+      knight_dark_16-bit_16: 4037017606186251344
+      knight_dark_16-bit_17: -4150474585330564644
+      knight_dark_16-bit_18: 2543722008833966237
+      knight_dark_16-bit_19: -6026549518074829936
+      knight_dark_16-bit_2: 4490203232931448555
+      knight_dark_16-bit_20: 2750693434424453837
+      knight_dark_16-bit_21: -3349283857351022599
+      knight_dark_16-bit_22: 3346764643690003579
+      knight_dark_16-bit_23: -436116379210121467
+      knight_dark_16-bit_24: -7894421339793537387
+      knight_dark_16-bit_25: -8214870248832845185
+      knight_dark_16-bit_26: -524759545984087648
+      knight_dark_16-bit_27: 6373241901507434226
+      knight_dark_16-bit_28: -2452416016426591442
+      knight_dark_16-bit_29: -1230996348733956889
+      knight_dark_16-bit_3: 4795971443514971557
+      knight_dark_16-bit_4: -2413508695176714669
+      knight_dark_16-bit_5: 6381929006661130173
+      knight_dark_16-bit_6: -3415119618999645487
+      knight_dark_16-bit_7: -2389349826729745081
+      knight_dark_16-bit_8: 2571465770041246408
+      knight_dark_16-bit_9: 2624860414575571875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

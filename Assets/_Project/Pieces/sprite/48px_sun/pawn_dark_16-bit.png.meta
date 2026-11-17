@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: aaa2666aa1bdfb84197395d03f59cf03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8514513400227571765
+    second: pawn_dark_16-bit_0
+  - first:
+      213: -834291257489567962
+    second: pawn_dark_16-bit_1
+  - first:
+      213: 4082230607251079513
+    second: pawn_dark_16-bit_2
+  - first:
+      213: -2159045875161567327
+    second: pawn_dark_16-bit_3
+  - first:
+      213: 3564863446670654793
+    second: pawn_dark_16-bit_4
+  - first:
+      213: -5514209075822639906
+    second: pawn_dark_16-bit_5
+  - first:
+      213: 8356834343552619752
+    second: pawn_dark_16-bit_6
+  - first:
+      213: -5553162882354371660
+    second: pawn_dark_16-bit_7
+  - first:
+      213: 6387536749612256856
+    second: pawn_dark_16-bit_8
+  - first:
+      213: 612059050190411261
+    second: pawn_dark_16-bit_9
+  - first:
+      213: -1941253056378425746
+    second: pawn_dark_16-bit_10
+  - first:
+      213: 4455265874341558549
+    second: pawn_dark_16-bit_11
+  - first:
+      213: -4485288211921262681
+    second: pawn_dark_16-bit_12
+  - first:
+      213: -8517728273956170034
+    second: pawn_dark_16-bit_13
+  - first:
+      213: 7554566753002736545
+    second: pawn_dark_16-bit_14
+  - first:
+      213: -6114688244722069748
+    second: pawn_dark_16-bit_15
+  - first:
+      213: 8026516552899410949
+    second: pawn_dark_16-bit_16
+  - first:
+      213: -5989255695469443599
+    second: pawn_dark_16-bit_17
+  - first:
+      213: -7922205804701390641
+    second: pawn_dark_16-bit_18
+  - first:
+      213: 4948295713685441812
+    second: pawn_dark_16-bit_19
+  - first:
+      213: -8749900986674402379
+    second: pawn_dark_16-bit_20
+  - first:
+      213: 2091713148053382544
+    second: pawn_dark_16-bit_21
+  - first:
+      213: 8787973474999651368
+    second: pawn_dark_16-bit_22
+  - first:
+      213: 8593025356774707296
+    second: pawn_dark_16-bit_23
+  - first:
+      213: -5489824527198988079
+    second: pawn_dark_16-bit_24
+  - first:
+      213: 8089840142442097658
+    second: pawn_dark_16-bit_25
+  - first:
+      213: -4099668645748377869
+    second: pawn_dark_16-bit_26
+  - first:
+      213: -1647813059023526876
+    second: pawn_dark_16-bit_27
+  - first:
+      213: -2670633294122583258
+    second: pawn_dark_16-bit_28
+  - first:
+      213: 6068266985650898876
+    second: pawn_dark_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d120ac2f56d980800000000000000
+      internalID: -8514513400227571765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fce1685800c64f0800000000000000
+      internalID: -834291257489567962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518d64db1ff6a830800000000000000
+      internalID: 4082230607251079513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 145
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe83537378902e0800000000000000
+      internalID: -2159045875161567327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d3493da60f87130800000000000000
+      internalID: 3564863446670654793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44b52af089973b0800000000000000
+      internalID: -5514209075822639906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e41d3e1f8079f370800000000000000
+      internalID: 8356834343552619752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32269c7c33fe2b0800000000000000
+      internalID: -5553162882354371660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4466c4d615a850800000000000000
+      internalID: 6387536749612256856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5992c96787e7800800000000000000
+      internalID: 612059050190411261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2c6361a84f05e0800000000000000
+      internalID: -1941253056378425746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5197c0c25b844dd30800000000000000
+      internalID: 4455265874341558549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7af25a22e01c1c0800000000000000
+      internalID: -4485288211921262681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69a818343fac980800000000000000
+      internalID: -8517728273956170034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab44b0af6637d860800000000000000
+      internalID: 7554566753002736545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 97
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f851d3073442ba0800000000000000
+      internalID: -6114688244722069748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 49
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cbc5f474ae36f60800000000000000
+      internalID: 8026516552899410949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 49
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f50f8a6da3e1eca0800000000000000
+      internalID: -5989255695469443599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc86c355bcbae0290800000000000000
+      internalID: -7922205804701390641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0fc10cb0eba440800000000000000
+      internalID: 4948295713685441812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 49
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbae6d596b129680800000000000000
+      internalID: -8749900986674402379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 49
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0956cb99602470d10800000000000000
+      internalID: 2091713148053382544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc8e8905725f970800000000000000
+      internalID: 8787973474999651368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 49
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601b70c80f804770800000000000000
+      internalID: 8593025356774707296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d319cda930d3b0800000000000000
+      internalID: -5489824527198988079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe4fb6fb2e44070800000000000000
+      internalID: 8089840142442097658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f67c51761d0b17c0800000000000000
+      internalID: -4099668645748377869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42427a8d0cac129e0800000000000000
+      internalID: -1647813059023526876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bfd7a2b2100fad0800000000000000
+      internalID: -2670633294122583258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawn_dark_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c3f12ca0d63450800000000000000
+      internalID: 6068266985650898876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pawn_dark_16-bit_0: -8514513400227571765
+      pawn_dark_16-bit_1: -834291257489567962
+      pawn_dark_16-bit_10: -1941253056378425746
+      pawn_dark_16-bit_11: 4455265874341558549
+      pawn_dark_16-bit_12: -4485288211921262681
+      pawn_dark_16-bit_13: -8517728273956170034
+      pawn_dark_16-bit_14: 7554566753002736545
+      pawn_dark_16-bit_15: -6114688244722069748
+      pawn_dark_16-bit_16: 8026516552899410949
+      pawn_dark_16-bit_17: -5989255695469443599
+      pawn_dark_16-bit_18: -7922205804701390641
+      pawn_dark_16-bit_19: 4948295713685441812
+      pawn_dark_16-bit_2: 4082230607251079513
+      pawn_dark_16-bit_20: -8749900986674402379
+      pawn_dark_16-bit_21: 2091713148053382544
+      pawn_dark_16-bit_22: 8787973474999651368
+      pawn_dark_16-bit_23: 8593025356774707296
+      pawn_dark_16-bit_24: -5489824527198988079
+      pawn_dark_16-bit_25: 8089840142442097658
+      pawn_dark_16-bit_26: -4099668645748377869
+      pawn_dark_16-bit_27: -1647813059023526876
+      pawn_dark_16-bit_28: -2670633294122583258
+      pawn_dark_16-bit_29: 6068266985650898876
+      pawn_dark_16-bit_3: -2159045875161567327
+      pawn_dark_16-bit_4: 3564863446670654793
+      pawn_dark_16-bit_5: -5514209075822639906
+      pawn_dark_16-bit_6: 8356834343552619752
+      pawn_dark_16-bit_7: -5553162882354371660
+      pawn_dark_16-bit_8: 6387536749612256856
+      pawn_dark_16-bit_9: 612059050190411261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

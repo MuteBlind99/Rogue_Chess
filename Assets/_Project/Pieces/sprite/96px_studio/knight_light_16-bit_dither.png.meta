@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: b7097474374a350408a0481c9d090e0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7533310998940480650
+    second: knight_light_16-bit_dither_0
+  - first:
+      213: -2173482562421690342
+    second: knight_light_16-bit_dither_1
+  - first:
+      213: 6440678698236581494
+    second: knight_light_16-bit_dither_2
+  - first:
+      213: -4039238094812389486
+    second: knight_light_16-bit_dither_3
+  - first:
+      213: 7478921055390607240
+    second: knight_light_16-bit_dither_4
+  - first:
+      213: 8409966247575065394
+    second: knight_light_16-bit_dither_5
+  - first:
+      213: -558061137068476327
+    second: knight_light_16-bit_dither_6
+  - first:
+      213: 5253740222109754387
+    second: knight_light_16-bit_dither_7
+  - first:
+      213: -1185964257298736362
+    second: knight_light_16-bit_dither_8
+  - first:
+      213: 3262687156978702423
+    second: knight_light_16-bit_dither_9
+  - first:
+      213: -4918702349840783480
+    second: knight_light_16-bit_dither_10
+  - first:
+      213: 3288747826647474119
+    second: knight_light_16-bit_dither_11
+  - first:
+      213: -4757978552478913914
+    second: knight_light_16-bit_dither_12
+  - first:
+      213: 3962274995852045269
+    second: knight_light_16-bit_dither_13
+  - first:
+      213: 1540390991268278418
+    second: knight_light_16-bit_dither_14
+  - first:
+      213: 7545259287335917748
+    second: knight_light_16-bit_dither_15
+  - first:
+      213: 6231699807861004125
+    second: knight_light_16-bit_dither_16
+  - first:
+      213: -3985884638938239888
+    second: knight_light_16-bit_dither_17
+  - first:
+      213: -1138156418370653628
+    second: knight_light_16-bit_dither_18
+  - first:
+      213: -2978025797163073699
+    second: knight_light_16-bit_dither_19
+  - first:
+      213: -7017438309110317904
+    second: knight_light_16-bit_dither_20
+  - first:
+      213: -6943349210326614012
+    second: knight_light_16-bit_dither_21
+  - first:
+      213: -8335237709098847139
+    second: knight_light_16-bit_dither_22
+  - first:
+      213: -5120657756353397009
+    second: knight_light_16-bit_dither_23
+  - first:
+      213: -3072273507770372137
+    second: knight_light_16-bit_dither_24
+  - first:
+      213: 7435267585193056799
+    second: knight_light_16-bit_dither_25
+  - first:
+      213: 6467091422506445212
+    second: knight_light_16-bit_dither_26
+  - first:
+      213: 279196873361673874
+    second: knight_light_16-bit_dither_27
+  - first:
+      213: -5739415926962507648
+    second: knight_light_16-bit_dither_28
+  - first:
+      213: 6546291141477563819
+    second: knight_light_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 293
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b0c954f8d447790800000000000000
+      internalID: -7533310998940480650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 293
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107955002d36d1e0800000000000000
+      internalID: -2173482562421690342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 293
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67611d0e623e16950800000000000000
+      internalID: 6440678698236581494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 293
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f5b738a5eb1f7c0800000000000000
+      internalID: -4039238094812389486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 293
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8872fb923177ac760800000000000000
+      internalID: 7478921055390607240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 293
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339cb78eb336b470800000000000000
+      internalID: 8409966247575065394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 292
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95835124a5e5148f0800000000000000
+      internalID: -558061137068476327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 292
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314a80185e809e840800000000000000
+      internalID: 5253740222109754387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b166f9acb9a8fe0800000000000000
+      internalID: -1185964257298736362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 196
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d1fccea4674d20800000000000000
+      internalID: 3262687156978702423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 196
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876cd1f5424dbbb0800000000000000
+      internalID: -4918702349840783480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 195
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf192b49baf3ad20800000000000000
+      internalID: 3288747826647474119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 195
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a219227b348fdb0800000000000000
+      internalID: -4757978552478913914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 195
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6c2e9d14dcf630800000000000000
+      internalID: 3962274995852045269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 195
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f1c9f171906510800000000000000
+      internalID: 1540390991268278418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 195
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8dfd7685526b860800000000000000
+      internalID: 7545259287335917748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 99
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57dc6255f17b7650800000000000000
+      internalID: 6231699807861004125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 99
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c666cf90b4fa8c0800000000000000
+      internalID: -3985884638938239888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 99
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442bf2884c47430f0800000000000000
+      internalID: -1138156418370653628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 99
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f3524d05deba6d0800000000000000
+      internalID: -2978025797163073699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 100
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf240b90d0d9e90800000000000000
+      internalID: -7017438309110317904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 100
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4004efe3ea444af90800000000000000
+      internalID: -6943349210326614012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f8be2779435c80800000000000000
+      internalID: -8335237709098847139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 100
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feef438a6e4cfe8b0800000000000000
+      internalID: -5120657756353397009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe084b5871d55d0800000000000000
+      internalID: -3072273507770372137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a986999706f2760800000000000000
+      internalID: 7435267585193056799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 5
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e8787269bfb950800000000000000
+      internalID: 6467091422506445212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e4f1bb318efd300800000000000000
+      internalID: 279196873361673874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803e278f9f7950b0800000000000000
+      internalID: -5739415926962507648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_light_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad7e040c1919da50800000000000000
+      internalID: 6546291141477563819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_light_16-bit_dither_0: -7533310998940480650
+      knight_light_16-bit_dither_1: -2173482562421690342
+      knight_light_16-bit_dither_10: -4918702349840783480
+      knight_light_16-bit_dither_11: 3288747826647474119
+      knight_light_16-bit_dither_12: -4757978552478913914
+      knight_light_16-bit_dither_13: 3962274995852045269
+      knight_light_16-bit_dither_14: 1540390991268278418
+      knight_light_16-bit_dither_15: 7545259287335917748
+      knight_light_16-bit_dither_16: 6231699807861004125
+      knight_light_16-bit_dither_17: -3985884638938239888
+      knight_light_16-bit_dither_18: -1138156418370653628
+      knight_light_16-bit_dither_19: -2978025797163073699
+      knight_light_16-bit_dither_2: 6440678698236581494
+      knight_light_16-bit_dither_20: -7017438309110317904
+      knight_light_16-bit_dither_21: -6943349210326614012
+      knight_light_16-bit_dither_22: -8335237709098847139
+      knight_light_16-bit_dither_23: -5120657756353397009
+      knight_light_16-bit_dither_24: -3072273507770372137
+      knight_light_16-bit_dither_25: 7435267585193056799
+      knight_light_16-bit_dither_26: 6467091422506445212
+      knight_light_16-bit_dither_27: 279196873361673874
+      knight_light_16-bit_dither_28: -5739415926962507648
+      knight_light_16-bit_dither_29: 6546291141477563819
+      knight_light_16-bit_dither_3: -4039238094812389486
+      knight_light_16-bit_dither_4: 7478921055390607240
+      knight_light_16-bit_dither_5: 8409966247575065394
+      knight_light_16-bit_dither_6: -558061137068476327
+      knight_light_16-bit_dither_7: 5253740222109754387
+      knight_light_16-bit_dither_8: -1185964257298736362
+      knight_light_16-bit_dither_9: 3262687156978702423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

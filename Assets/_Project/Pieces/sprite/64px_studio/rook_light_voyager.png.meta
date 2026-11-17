@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 3f3de8df315840e499d3e8ada7aa786d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2221374201425459823
+    second: rook_light_voyager_0
+  - first:
+      213: -8815147424120398232
+    second: rook_light_voyager_1
+  - first:
+      213: 8748354044317283602
+    second: rook_light_voyager_2
+  - first:
+      213: -7598878384525416665
+    second: rook_light_voyager_3
+  - first:
+      213: 2991450778874215757
+    second: rook_light_voyager_4
+  - first:
+      213: -6531450877702088599
+    second: rook_light_voyager_5
+  - first:
+      213: 925169872653480248
+    second: rook_light_voyager_6
+  - first:
+      213: -4218775608259943186
+    second: rook_light_voyager_7
+  - first:
+      213: 7852714442033774433
+    second: rook_light_voyager_8
+  - first:
+      213: -1163586095598941208
+    second: rook_light_voyager_9
+  - first:
+      213: 6049492633239620821
+    second: rook_light_voyager_10
+  - first:
+      213: 3605022609022551509
+    second: rook_light_voyager_11
+  - first:
+      213: 5354622962060059964
+    second: rook_light_voyager_12
+  - first:
+      213: 2391547729452203351
+    second: rook_light_voyager_13
+  - first:
+      213: -5469814647544427685
+    second: rook_light_voyager_14
+  - first:
+      213: 2883461601291853564
+    second: rook_light_voyager_15
+  - first:
+      213: -7342880153383464897
+    second: rook_light_voyager_16
+  - first:
+      213: -1871533133683082076
+    second: rook_light_voyager_17
+  - first:
+      213: 8100721795435563023
+    second: rook_light_voyager_18
+  - first:
+      213: -3522494857460286748
+    second: rook_light_voyager_19
+  - first:
+      213: 1854125727485702101
+    second: rook_light_voyager_20
+  - first:
+      213: -9034050572316471327
+    second: rook_light_voyager_21
+  - first:
+      213: -6132723022295403011
+    second: rook_light_voyager_22
+  - first:
+      213: 8530986378610191544
+    second: rook_light_voyager_23
+  - first:
+      213: 5135845447765634886
+    second: rook_light_voyager_24
+  - first:
+      213: -3370979862114694842
+    second: rook_light_voyager_25
+  - first:
+      213: -4571651757112771755
+    second: rook_light_voyager_26
+  - first:
+      213: -2052421041181714497
+    second: rook_light_voyager_27
+  - first:
+      213: 2680122630957097045
+    second: rook_light_voyager_28
+  - first:
+      213: 3975741354251823491
+    second: rook_light_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rook_light_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7e2d1118e3de10800000000000000
+      internalID: 2221374201425459823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e9a965f1e4aa580800000000000000
+      internalID: -8815147424120398232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21532ec07a5686970800000000000000
+      internalID: 8748354044317283602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e7feae5c5b8690800000000000000
+      internalID: -7598878384525416665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dfcdd42a4c38920800000000000000
+      internalID: 2991450778874215757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96857a62800ab55a0800000000000000
+      internalID: -6531450877702088599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8317760f81dd6dc00800000000000000
+      internalID: 925169872653480248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 195
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46592bfe5e375c0800000000000000
+      internalID: -4218775608259943186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb008fd227afc60800000000000000
+      internalID: 7852714442033774433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebcd3a6c9c1adfe0800000000000000
+      internalID: -1163586095598941208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc07939f7d14f350800000000000000
+      internalID: 6049492633239620821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58a0276fc970230800000000000000
+      internalID: 3605022609022551509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c356db7c6317f4a40800000000000000
+      internalID: 5354622962060059964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df36d2dfb703120800000000000000
+      internalID: 2391547729452203351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc2e1fe805714b0800000000000000
+      internalID: -5469814647544427685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 131
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeda749c0d140820800000000000000
+      internalID: 2883461601291853564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30105d9769d81a90800000000000000
+      internalID: -7342880153383464897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac327dd78af606e0800000000000000
+      internalID: -1871533133683082076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088331bd8b8b6070800000000000000
+      internalID: 8100721795435563023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea70f117959d1fc0800000000000000
+      internalID: -3522494857460286748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa2bb868d2bb910800000000000000
+      internalID: 1854125727485702101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef89227eda90a280800000000000000
+      internalID: -9034050572316471327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f83e57e034eaa0800000000000000
+      internalID: -6132723022295403011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 67
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca1c889e6246670800000000000000
+      internalID: 8530986378610191544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa06f4930364740800000000000000
+      internalID: 5135845447765634886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64988a5fcafd731d0800000000000000
+      internalID: -3370979862114694842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bb084d2fa3e80c0800000000000000
+      internalID: -4571651757112771755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb793deefe55483e0800000000000000
+      internalID: -2052421041181714497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550eeac3555b13520800000000000000
+      internalID: 2680122630957097045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_light_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a20382bbac2730800000000000000
+      internalID: 3975741354251823491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rook_light_voyager_0: 2221374201425459823
+      rook_light_voyager_1: -8815147424120398232
+      rook_light_voyager_10: 6049492633239620821
+      rook_light_voyager_11: 3605022609022551509
+      rook_light_voyager_12: 5354622962060059964
+      rook_light_voyager_13: 2391547729452203351
+      rook_light_voyager_14: -5469814647544427685
+      rook_light_voyager_15: 2883461601291853564
+      rook_light_voyager_16: -7342880153383464897
+      rook_light_voyager_17: -1871533133683082076
+      rook_light_voyager_18: 8100721795435563023
+      rook_light_voyager_19: -3522494857460286748
+      rook_light_voyager_2: 8748354044317283602
+      rook_light_voyager_20: 1854125727485702101
+      rook_light_voyager_21: -9034050572316471327
+      rook_light_voyager_22: -6132723022295403011
+      rook_light_voyager_23: 8530986378610191544
+      rook_light_voyager_24: 5135845447765634886
+      rook_light_voyager_25: -3370979862114694842
+      rook_light_voyager_26: -4571651757112771755
+      rook_light_voyager_27: -2052421041181714497
+      rook_light_voyager_28: 2680122630957097045
+      rook_light_voyager_29: 3975741354251823491
+      rook_light_voyager_3: -7598878384525416665
+      rook_light_voyager_4: 2991450778874215757
+      rook_light_voyager_5: -6531450877702088599
+      rook_light_voyager_6: 925169872653480248
+      rook_light_voyager_7: -4218775608259943186
+      rook_light_voyager_8: 7852714442033774433
+      rook_light_voyager_9: -1163586095598941208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

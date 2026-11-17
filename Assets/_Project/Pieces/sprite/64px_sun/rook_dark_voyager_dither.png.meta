@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: fbb5f5fbe64a86f4199d667410fef378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3684483980103449732
+    second: rook_dark_voyager_dither_0
+  - first:
+      213: -2062925346573428104
+    second: rook_dark_voyager_dither_1
+  - first:
+      213: -5065810399740603832
+    second: rook_dark_voyager_dither_2
+  - first:
+      213: 2374509714430370298
+    second: rook_dark_voyager_dither_3
+  - first:
+      213: 284008662221342864
+    second: rook_dark_voyager_dither_4
+  - first:
+      213: -6812814347357197054
+    second: rook_dark_voyager_dither_5
+  - first:
+      213: 1950019479931054451
+    second: rook_dark_voyager_dither_6
+  - first:
+      213: 1806599796531864807
+    second: rook_dark_voyager_dither_7
+  - first:
+      213: 397870135783535906
+    second: rook_dark_voyager_dither_8
+  - first:
+      213: 4471219296449681255
+    second: rook_dark_voyager_dither_9
+  - first:
+      213: -7727199889758736409
+    second: rook_dark_voyager_dither_10
+  - first:
+      213: -6137493856096628769
+    second: rook_dark_voyager_dither_11
+  - first:
+      213: -1334895484035520039
+    second: rook_dark_voyager_dither_12
+  - first:
+      213: -4484584506958105416
+    second: rook_dark_voyager_dither_13
+  - first:
+      213: 6169113605200581504
+    second: rook_dark_voyager_dither_14
+  - first:
+      213: -6872377787150193537
+    second: rook_dark_voyager_dither_15
+  - first:
+      213: 4167365721735174158
+    second: rook_dark_voyager_dither_16
+  - first:
+      213: 4879715618807507678
+    second: rook_dark_voyager_dither_17
+  - first:
+      213: -6388569737049988179
+    second: rook_dark_voyager_dither_18
+  - first:
+      213: -8208288609885128266
+    second: rook_dark_voyager_dither_19
+  - first:
+      213: 2276497000488649993
+    second: rook_dark_voyager_dither_20
+  - first:
+      213: -7642113870322101254
+    second: rook_dark_voyager_dither_21
+  - first:
+      213: -5489746848117506876
+    second: rook_dark_voyager_dither_22
+  - first:
+      213: -7347830987918385550
+    second: rook_dark_voyager_dither_23
+  - first:
+      213: -497191774937512330
+    second: rook_dark_voyager_dither_24
+  - first:
+      213: -1018700850774746189
+    second: rook_dark_voyager_dither_25
+  - first:
+      213: 7454768134118107466
+    second: rook_dark_voyager_dither_26
+  - first:
+      213: -1325752364696667102
+    second: rook_dark_voyager_dither_27
+  - first:
+      213: -1050699072834941815
+    second: rook_dark_voyager_dither_28
+  - first:
+      213: -7080770835458435715
+    second: rook_dark_voyager_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73015167551edcc0800000000000000
+      internalID: -3684483980103449732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a575fb3540f53e0800000000000000
+      internalID: -2062925346573428104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425bfff740a2b9b0800000000000000
+      internalID: -5065810399740603832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1265c2104f3f020800000000000000
+      internalID: 2374509714430370298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09846d0af5001f300800000000000000
+      internalID: 284008662221342864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de61962750471a0800000000000000
+      internalID: -6812814347357197054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e166a26cdf0b10800000000000000
+      internalID: 1950019479931054451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4239371f4521910800000000000000
+      internalID: 1806599796531864807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253d1ec7c4858500800000000000000
+      internalID: 397870135783535906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76751c5b246fc0e30800000000000000
+      internalID: 4471219296449681255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2e7604a873c490800000000000000
+      internalID: -7727199889758736409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 130
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc7301bdd33daa0800000000000000
+      internalID: -6137493856096628769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d92acd31af797de0800000000000000
+      internalID: -1334895484035520039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 130
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ba89b62e83c1c0800000000000000
+      internalID: -4484584506958105416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 130
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083920973281d9550800000000000000
+      internalID: 6169113605200581504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 130
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ca0a260d860a0a0800000000000000
+      internalID: -6872377787150193537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e081a255b0575d930800000000000000
+      internalID: 4167365721735174158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda62ff508b38b340800000000000000
+      internalID: 4879715618807507678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da323581cad3757a0800000000000000
+      internalID: -6388569737049988179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b979e9affc461e80800000000000000
+      internalID: -8208288609885128266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 66
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054e56e5fdb79f10800000000000000
+      internalID: 2276497000488649993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 66
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af39d52bce1c1f590800000000000000
+      internalID: -7642113870322101254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccb22bd35080d3b0800000000000000
+      internalID: -5489746848117506876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e548f95a2470a90800000000000000
+      internalID: -7347830987918385550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768a9507be9919f0800000000000000
+      internalID: -497191774937512330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbde2939f8dcd1f0800000000000000
+      internalID: -1018700850774746189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e205fe18a47760800000000000000
+      internalID: 7454768134118107466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cfe1a9f3bf99de0800000000000000
+      internalID: -1325752364696667102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c47d592ca2b61f0800000000000000
+      internalID: -1050699072834941815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rook_dark_voyager_dither_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75dd80d07c0cbd90800000000000000
+      internalID: -7080770835458435715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rook_dark_voyager_dither_0: -3684483980103449732
+      rook_dark_voyager_dither_1: -2062925346573428104
+      rook_dark_voyager_dither_10: -7727199889758736409
+      rook_dark_voyager_dither_11: -6137493856096628769
+      rook_dark_voyager_dither_12: -1334895484035520039
+      rook_dark_voyager_dither_13: -4484584506958105416
+      rook_dark_voyager_dither_14: 6169113605200581504
+      rook_dark_voyager_dither_15: -6872377787150193537
+      rook_dark_voyager_dither_16: 4167365721735174158
+      rook_dark_voyager_dither_17: 4879715618807507678
+      rook_dark_voyager_dither_18: -6388569737049988179
+      rook_dark_voyager_dither_19: -8208288609885128266
+      rook_dark_voyager_dither_2: -5065810399740603832
+      rook_dark_voyager_dither_20: 2276497000488649993
+      rook_dark_voyager_dither_21: -7642113870322101254
+      rook_dark_voyager_dither_22: -5489746848117506876
+      rook_dark_voyager_dither_23: -7347830987918385550
+      rook_dark_voyager_dither_24: -497191774937512330
+      rook_dark_voyager_dither_25: -1018700850774746189
+      rook_dark_voyager_dither_26: 7454768134118107466
+      rook_dark_voyager_dither_27: -1325752364696667102
+      rook_dark_voyager_dither_28: -1050699072834941815
+      rook_dark_voyager_dither_29: -7080770835458435715
+      rook_dark_voyager_dither_3: 2374509714430370298
+      rook_dark_voyager_dither_4: 284008662221342864
+      rook_dark_voyager_dither_5: -6812814347357197054
+      rook_dark_voyager_dither_6: 1950019479931054451
+      rook_dark_voyager_dither_7: 1806599796531864807
+      rook_dark_voyager_dither_8: 397870135783535906
+      rook_dark_voyager_dither_9: 4471219296449681255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

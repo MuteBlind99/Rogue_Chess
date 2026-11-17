@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: 61e991956e8df56449bc2ded14e9c157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1916636301212356827
+    second: queen_dark_voyager_dither_0
+  - first:
+      213: 3185078535472582309
+    second: queen_dark_voyager_dither_1
+  - first:
+      213: 698534213601361417
+    second: queen_dark_voyager_dither_2
+  - first:
+      213: -3491227564189690311
+    second: queen_dark_voyager_dither_3
+  - first:
+      213: 1016363112612782109
+    second: queen_dark_voyager_dither_4
+  - first:
+      213: 2577509482830156841
+    second: queen_dark_voyager_dither_5
+  - first:
+      213: -2991980892662284846
+    second: queen_dark_voyager_dither_6
+  - first:
+      213: -1439558849853610186
+    second: queen_dark_voyager_dither_7
+  - first:
+      213: 195929557842589425
+    second: queen_dark_voyager_dither_8
+  - first:
+      213: -7260697740982337461
+    second: queen_dark_voyager_dither_9
+  - first:
+      213: 3958872983680441893
+    second: queen_dark_voyager_dither_10
+  - first:
+      213: -3461599892518572325
+    second: queen_dark_voyager_dither_11
+  - first:
+      213: 2910181551701977629
+    second: queen_dark_voyager_dither_12
+  - first:
+      213: 572813521343731693
+    second: queen_dark_voyager_dither_13
+  - first:
+      213: -8051485595222714079
+    second: queen_dark_voyager_dither_14
+  - first:
+      213: 1967421916298667631
+    second: queen_dark_voyager_dither_15
+  - first:
+      213: -5084868345068980205
+    second: queen_dark_voyager_dither_16
+  - first:
+      213: 345406592212077601
+    second: queen_dark_voyager_dither_17
+  - first:
+      213: -7581039709964030263
+    second: queen_dark_voyager_dither_18
+  - first:
+      213: 117313997858847933
+    second: queen_dark_voyager_dither_19
+  - first:
+      213: 7015128192586601976
+    second: queen_dark_voyager_dither_20
+  - first:
+      213: 1969763807792072226
+    second: queen_dark_voyager_dither_21
+  - first:
+      213: 3043980501908177962
+    second: queen_dark_voyager_dither_22
+  - first:
+      213: -6750349217111272136
+    second: queen_dark_voyager_dither_23
+  - first:
+      213: 8913274188614565814
+    second: queen_dark_voyager_dither_24
+  - first:
+      213: -6848915232831498399
+    second: queen_dark_voyager_dither_25
+  - first:
+      213: 8013367038913544794
+    second: queen_dark_voyager_dither_26
+  - first:
+      213: 3100388734107341433
+    second: queen_dark_voyager_dither_27
+  - first:
+      213: 4272225473828511733
+    second: queen_dark_voyager_dither_28
+  - first:
+      213: -5695626101425869207
+    second: queen_dark_voyager_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09169af82499a10800000000000000
+      internalID: 1916636301212356827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae80908d0ca33c20800000000000000
+      internalID: 3185078535472582309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7a219a21b1b900800000000000000
+      internalID: 698534213601361417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936db66170bac8fc0800000000000000
+      internalID: -3491227564189690311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106812bdd8da1e00800000000000000
+      internalID: 1016363112612782109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924da49e73725c320800000000000000
+      internalID: 2577509482830156841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddbb16fa395a76d0800000000000000
+      internalID: -2991980892662284846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a4396ad8a50ce0800000000000000
+      internalID: -1439558849853610186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f43015e418b200800000000000000
+      internalID: 195929557842589425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4044479fd1dc3b90800000000000000
+      internalID: -7260697740982337461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed92fe00eb0f630800000000000000
+      internalID: 3958872983680441893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde66e3fc3de5ffc0800000000000000
+      internalID: -3461599892518572325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6715d3ba036820800000000000000
+      internalID: 2910181551701977629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7db3edcda03f700800000000000000
+      internalID: 572813521343731693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129539e7280634090800000000000000
+      internalID: -8051485595222714079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ec4c1fcfad4b10800000000000000
+      internalID: 1967421916298667631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f8825e2bee69b0800000000000000
+      internalID: -5084868345068980205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c01ef27712bc400800000000000000
+      internalID: 345406592212077601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea673cc8cbac690800000000000000
+      internalID: -7581039709964030263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcbe81a578c0a100800000000000000
+      internalID: 117313997858847933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5d3f46cedba5160800000000000000
+      internalID: 7015128192586601976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260ed63fb1065b10800000000000000
+      internalID: 1969763807792072226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c37783246e3a20800000000000000
+      internalID: 3043980501908177962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 49
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351f34e621f152a0800000000000000
+      internalID: -6750349217111272136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf770666af42bb70800000000000000
+      internalID: 8913274188614565814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167115202e3c3f0a0800000000000000
+      internalID: -6848915232831498399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5204418dd2353f60800000000000000
+      internalID: 8013367038913544794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972571a802bc60b20800000000000000
+      internalID: 3100388734107341433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff5ce7ee6ef94b30800000000000000
+      internalID: 4272225473828511733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queen_dark_voyager_dither_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e611bcc3215f0b0800000000000000
+      internalID: -5695626101425869207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queen_dark_voyager_dither_0: 1916636301212356827
+      queen_dark_voyager_dither_1: 3185078535472582309
+      queen_dark_voyager_dither_10: 3958872983680441893
+      queen_dark_voyager_dither_11: -3461599892518572325
+      queen_dark_voyager_dither_12: 2910181551701977629
+      queen_dark_voyager_dither_13: 572813521343731693
+      queen_dark_voyager_dither_14: -8051485595222714079
+      queen_dark_voyager_dither_15: 1967421916298667631
+      queen_dark_voyager_dither_16: -5084868345068980205
+      queen_dark_voyager_dither_17: 345406592212077601
+      queen_dark_voyager_dither_18: -7581039709964030263
+      queen_dark_voyager_dither_19: 117313997858847933
+      queen_dark_voyager_dither_2: 698534213601361417
+      queen_dark_voyager_dither_20: 7015128192586601976
+      queen_dark_voyager_dither_21: 1969763807792072226
+      queen_dark_voyager_dither_22: 3043980501908177962
+      queen_dark_voyager_dither_23: -6750349217111272136
+      queen_dark_voyager_dither_24: 8913274188614565814
+      queen_dark_voyager_dither_25: -6848915232831498399
+      queen_dark_voyager_dither_26: 8013367038913544794
+      queen_dark_voyager_dither_27: 3100388734107341433
+      queen_dark_voyager_dither_28: 4272225473828511733
+      queen_dark_voyager_dither_29: -5695626101425869207
+      queen_dark_voyager_dither_3: -3491227564189690311
+      queen_dark_voyager_dither_4: 1016363112612782109
+      queen_dark_voyager_dither_5: 2577509482830156841
+      queen_dark_voyager_dither_6: -2991980892662284846
+      queen_dark_voyager_dither_7: -1439558849853610186
+      queen_dark_voyager_dither_8: 195929557842589425
+      queen_dark_voyager_dither_9: -7260697740982337461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

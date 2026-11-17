@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: d89c284754be4ff4fa2222f3615cd984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7021145745229246144
+    second: knight_dark_voyager_0
+  - first:
+      213: 5881476118321439487
+    second: knight_dark_voyager_1
+  - first:
+      213: 4364055255220206607
+    second: knight_dark_voyager_2
+  - first:
+      213: -4934173862785369837
+    second: knight_dark_voyager_3
+  - first:
+      213: 3958638259089761897
+    second: knight_dark_voyager_4
+  - first:
+      213: -8411102272622179091
+    second: knight_dark_voyager_5
+  - first:
+      213: -7842545301350068903
+    second: knight_dark_voyager_6
+  - first:
+      213: 4860968063980688791
+    second: knight_dark_voyager_7
+  - first:
+      213: 3724694869472193944
+    second: knight_dark_voyager_8
+  - first:
+      213: -7115843975799001549
+    second: knight_dark_voyager_9
+  - first:
+      213: 9032045000081080830
+    second: knight_dark_voyager_10
+  - first:
+      213: -4757500894615875988
+    second: knight_dark_voyager_11
+  - first:
+      213: -9139032700024102639
+    second: knight_dark_voyager_12
+  - first:
+      213: -3267487516018630472
+    second: knight_dark_voyager_13
+  - first:
+      213: 4965487750687485715
+    second: knight_dark_voyager_14
+  - first:
+      213: 2658530202031746344
+    second: knight_dark_voyager_15
+  - first:
+      213: 99203313116708345
+    second: knight_dark_voyager_16
+  - first:
+      213: -727358797403713852
+    second: knight_dark_voyager_17
+  - first:
+      213: 3834865211577641769
+    second: knight_dark_voyager_18
+  - first:
+      213: -1377622973191539621
+    second: knight_dark_voyager_19
+  - first:
+      213: -1958880203565330664
+    second: knight_dark_voyager_20
+  - first:
+      213: -6843228848849312550
+    second: knight_dark_voyager_21
+  - first:
+      213: 6453115364826688535
+    second: knight_dark_voyager_22
+  - first:
+      213: -3760612479118457348
+    second: knight_dark_voyager_23
+  - first:
+      213: 6390081017668660929
+    second: knight_dark_voyager_24
+  - first:
+      213: -3049950703832786932
+    second: knight_dark_voyager_25
+  - first:
+      213: -2755226757031351367
+    second: knight_dark_voyager_26
+  - first:
+      213: -8410108689416046311
+    second: knight_dark_voyager_27
+  - first:
+      213: 641025281280463603
+    second: knight_dark_voyager_28
+  - first:
+      213: 7062790474760422790
+    second: knight_dark_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_dark_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce62ac0bde107160800000000000000
+      internalID: 7021145745229246144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22e734e533f9150800000000000000
+      internalID: 5881476118321439487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb393022d309c30800000000000000
+      internalID: 4364055255220206607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 146
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31939a0a30b468bb0800000000000000
+      internalID: -4934173862785369837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e05bd588efe630800000000000000
+      internalID: 3958638259089761897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 146
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deccfd60c03c54b80800000000000000
+      internalID: -8411102272622179091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dce1a999ea92390800000000000000
+      internalID: -7842545301350068903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 145
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795561e13b0a57340800000000000000
+      internalID: 4860968063980688791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2c9fdf36c0b330800000000000000
+      internalID: 3724694869472193944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea569fa917f3d90800000000000000
+      internalID: -7115843975799001549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10d21e215485d70800000000000000
+      internalID: 9032045000081080830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e41d58426f9fdb0800000000000000
+      internalID: -4757500894615875988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11162641e22ab2180800000000000000
+      internalID: -9139032700024102639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0afa38a6d87a2d0800000000000000
+      internalID: -3267487516018630472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe74c0dc4f8e440800000000000000
+      internalID: 4965487750687485715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82defbc122ff4e420800000000000000
+      internalID: 2658530202031746344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdfcde33e0706100800000000000000
+      internalID: 99203313116708345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce0f780707e7e5f0800000000000000
+      internalID: -727358797403713852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba699879d283530800000000000000
+      internalID: 3834865211577641769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5430807433b1ece0800000000000000
+      internalID: -1377622973191539621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f81fc55d8a0d4e0800000000000000
+      internalID: -1958880203565330664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a1a37e97f701a0800000000000000
+      internalID: -6843228848849312550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c2c17fb321e8950800000000000000
+      internalID: 6453115364826688535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54e34ffde9fcbc0800000000000000
+      internalID: -3760612479118457348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce6b1854d02ea850800000000000000
+      internalID: 6390081017668660929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0818938ef56ca5d0800000000000000
+      internalID: -3049950703832786932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbae7fbcd773c9d0800000000000000
+      internalID: -2755226757031351367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193ee4a4ba494b80800000000000000
+      internalID: -8410108689416046311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f254c6d81165e800800000000000000
+      internalID: 641025281280463603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_dark_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6858b1b3482140260800000000000000
+      internalID: 7062790474760422790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_dark_voyager_0: 7021145745229246144
+      knight_dark_voyager_1: 5881476118321439487
+      knight_dark_voyager_10: 9032045000081080830
+      knight_dark_voyager_11: -4757500894615875988
+      knight_dark_voyager_12: -9139032700024102639
+      knight_dark_voyager_13: -3267487516018630472
+      knight_dark_voyager_14: 4965487750687485715
+      knight_dark_voyager_15: 2658530202031746344
+      knight_dark_voyager_16: 99203313116708345
+      knight_dark_voyager_17: -727358797403713852
+      knight_dark_voyager_18: 3834865211577641769
+      knight_dark_voyager_19: -1377622973191539621
+      knight_dark_voyager_2: 4364055255220206607
+      knight_dark_voyager_20: -1958880203565330664
+      knight_dark_voyager_21: -6843228848849312550
+      knight_dark_voyager_22: 6453115364826688535
+      knight_dark_voyager_23: -3760612479118457348
+      knight_dark_voyager_24: 6390081017668660929
+      knight_dark_voyager_25: -3049950703832786932
+      knight_dark_voyager_26: -2755226757031351367
+      knight_dark_voyager_27: -8410108689416046311
+      knight_dark_voyager_28: 641025281280463603
+      knight_dark_voyager_29: 7062790474760422790
+      knight_dark_voyager_3: -4934173862785369837
+      knight_dark_voyager_4: 3958638259089761897
+      knight_dark_voyager_5: -8411102272622179091
+      knight_dark_voyager_6: -7842545301350068903
+      knight_dark_voyager_7: 4860968063980688791
+      knight_dark_voyager_8: 3724694869472193944
+      knight_dark_voyager_9: -7115843975799001549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
