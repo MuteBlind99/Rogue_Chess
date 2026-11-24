@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Chess.Core;
+using Chess.AI;
 using Chess.Presentation;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -7,6 +8,7 @@ using UnityEngine.InputSystem;
 public class GameController : MonoBehaviour
 {
     [SerializeField] private BoardView boardView;
+    [SerializeField] private Side aiSide = Side.Black;
 
     private GameState game;
 
@@ -24,6 +26,13 @@ public class GameController : MonoBehaviour
     {
         if (game.IsOver)
             return;
+
+        if (game.SideToMove == aiSide)
+        {
+            PlayAIMove();
+            return;
+        }
+        
         if (Mouse.current == null || !Mouse.current.leftButton.wasPressedThisFrame)
             return;
 
@@ -49,6 +58,16 @@ public class GameController : MonoBehaviour
             Select(clicked);
         else
             Deselect();
+    }
+
+    private void PlayAIMove()
+    {
+        Move? move = GreedyAI.ChooseMove(game.Board, aiSide);
+
+        if (move.HasValue)
+            PlayMove(move.Value);
+        else
+            Debug.LogWarning($"L'IA ({aiSide}) n'a aucun coup possible.");
     }
 
     private void Select(Coord coord)
