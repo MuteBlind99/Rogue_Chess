@@ -23,13 +23,13 @@ public class GameState
         if(IsOver)
             return moves;
         
-        foreach (var (coord,piece) in Board.AllPieces())
-        {
-            if (piece.Side != SideToMove)
-                continue;
-            moves.AddRange(MoveGenerator.GetMoves(Board, coord));
-        }
-        return moves;
+        // foreach (var (coord,piece) in Board.AllPieces())
+        // {
+        //     if (piece.Side != SideToMove)
+        //         continue;
+        //     moves.AddRange(MoveGenerator.GetMoves(Board, coord));
+        // }
+        return MoveGenerator.GetAllMoves(Board, SideToMove);
     }
 
     public void Play(Move move)

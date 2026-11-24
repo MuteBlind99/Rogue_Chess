@@ -166,5 +166,18 @@ namespace Chess.Core
                     moves.Add(new Move(from, targetCoord));
             }
         }
+
+        public static List<Move> GetAllMoves(Board board, Side side)
+        {
+            List<Move> moves = new List<Move>();
+        
+            foreach (var (coord,piece) in board.AllPieces())
+            {
+                if (piece.Side != side)
+                    continue;
+                moves.AddRange(MoveGenerator.GetMoves(board, coord));
+            }
+            return moves;
+        }
     }
 }
