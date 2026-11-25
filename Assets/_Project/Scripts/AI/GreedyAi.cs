@@ -1,4 +1,3 @@
-using Chess.AI;
 using Chess.Core;
 
 namespace Chess.AI
